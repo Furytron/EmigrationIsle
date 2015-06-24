@@ -1,0 +1,836 @@
+{
+    "person": {
+        "whoPage": {
+			"whoBgURI" : "../img/who_page/anne/bg.png",
+			"whoInfoPoint" : 
+			{
+				"imgURI": "../img/general/info_point.png",
+				"imgID": "",
+				"imgClass": "tooltip who_info_point",
+				"imgAlt" : "",
+				"imgTitle": "Anne and her husband returned to Ireland for a short stint in 1980, returning almost immediately to Canada again in 1981. "
+			},
+            "whoIconDiv": [
+                {
+                    "imgURI": "../img/who_page/general/house_icon.png",
+                    "imgTitle": "Lived with her husband&#39;s family once she was married.",
+                    "imgClass": "tooltip",
+					"imgAlt" : ""
+                },
+				{
+                    "imgURI": "../img/who_page/general/born_icon.png",
+                    "imgTitle": "Born at Knockanotish, Ballinrobe to John Walsh and Fanny Feeney on January 23, 1873.",
+                    "imgClass": "tooltip",
+					"imgAlt" : ""
+                },
+				{
+                    "imgURI": "../img/who_page/anne/icons/family_icon.png",
+                    "imgTitle": "Married, with one sister and two brothers.",
+                    "imgClass": "tooltip",
+					"imgAlt" : ""
+                },
+                {
+                    "imgURI": "../img/who_page/anne/icons/ireland_icon.png",
+                    "imgTitle": "Lived in the townland Carrownalecka and Knockanotish in the parish of Ballinrobe, County Mayo",
+                    "imgClass": "tooltip",
+					"imgAlt" : ""
+                },
+                
+                {
+                    "imgURI": "../img/who_page/anne/icons/blast_icon.png",
+                    "imgTitle": "Emigrated due to the violence during the Troubles in Belfast.",
+					"imgClass": "tooltip",
+					"imgAlt" : ""
+                },
+                {
+                    "imgURI": "../img/who_page/anne/icons/job_icon.png",
+                    "imgTitle": "Studied commerce in college, and worked part-time in the local bar to earn money for the trip.",                   
+				    "imgClass": "tooltip",
+					"imgAlt" : ""
+                }
+            ],
+			
+			
+			"whoTextDiv": {
+				"whoText" : "On the night of Anne and Brendan&#39;s engagement, September 28, 1972, Anne was informed that her father had been shot dead during an outbreak of violence connected to the Troubles. Anne raced home to find a man laying dead on the sidewalk; although there were clear semblances, luckily for Anne, the man was not her father.<br><br>As the Troubles of Northern Ireland escalated, the West Belfast couple witnessed one of the worst times in the history of the country. In the years following, Brendan was assaulted and shot and Anne witnessed her boss get shot. Anne and Brendan began saving money, for a wedding and for emigration. In September 1974, 19 year old Anne married Brendan Carey in Belfast on Brendan&#39;s 21st birthday, and less than a year later they boarded a plane for Canada, leaving their family and friends behind.",
+				"textClass" : "whoTextclass"
+			},
+			
+			"whoRulerDiv": [
+				{
+					"imgURI": "../img/who_page/anne/ruler_buttons/rulerButton.png",
+                    "imgTitle": "",
+                    "imgClass": "hover cursor whoRulerDivImgClass",
+					"imgID" : "whoRulerDivImg1",
+					"imgAlt" : ""
+				},
+				{
+					"imgURI": "../img/who_page/anne/ruler_buttons/rulerButton.png",
+                    "imgTitle": "",
+                    "imgClass": "hover cursor whoRulerDivImgClass",
+					"imgID" : "whoRulerDivImg2",
+					"imgAlt" : ""
+				},
+				{
+					"imgURI": "../img/who_page/anne/ruler_buttons/rulerButton.png",
+                    "imgTitle": "",
+                    "imgClass": "hover cursor whoRulerDivImgClass",
+					"imgID" : "whoRulerDivImg3",
+					"imgAlt" : ""
+				},
+				{
+					"imgURI": "../img/who_page/anne/ruler_buttons/rulerButton.png",
+                    "imgTitle": "",
+                    "imgClass": "hover cursor whoRulerDivImgClass",
+					"imgID" : "whoRulerDivImg4",
+					"imgAlt" : ""
+				}
+			],
+			"whoBarchartDiv":{ 
+				"whoBarchartDefaultText" : "TOTAL IRISH EMIGRANTS: ",
+				"whoBarchartDefaultNum": "1,040,816",
+				"whoBarchartXaxisLabel" : "Years",
+				"whoBarchartXaxisLabelClass" : "xlabel",
+				"whoBarchartValues":[
+					{
+						"barClass" : "anneBars anneBar_one barHandle",
+						"barTextValue" : "TOTAL EMIGRANTS 1960:",
+						"barValue" : "4,800"
+					},
+					{
+						"barClass" : "anneBars anneBar_two barHandle",
+						"barTextValue" : "TOTAL EMIGRANTS 1965:",
+						"barValue" : "4,839"			
+					},
+					{
+						"barClass" : "anneBars anneBar_three barHandle",
+						"barTextValue" : "TOTAL EMIGRANTS 1970:",
+						"barValue" : "5,686"
+					},
+					{
+						"barClass" : "anneBars anneBar_four barHandle",
+						"barTextValue" : "TOTAL EMIGRANTS 1975:",
+						"barValue" : "12,335 "			
+					}
+				]
+			},
+			"whoFadeInDiv" :{
+				"type" : "fadeInImage",
+				"location" : "whoFadeInDiv",
+				
+				"imgURI": "../img/who_page/anne/fadeIns/anneFadeIn.png",
+				"imgTitle": "",
+				"imgClass": "",
+				"imgAlt" : "",
+				"imgID" : "whoImgFadeIn",
+				
+				"imgURIOver": "../img/who_page/anne/fadeIns/anneFadeInOver.png",
+				"imgTitleOver": "",
+				"imgClassOver": "",
+				"imgAltOver" : "",
+				"imgIDOver" : "whoImgFadeIn"
+			}
+		},
+		"whenPage":{
+			"whenPinImages" : [
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinTL",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinTC",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinTR",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinBL",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinBC",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinBR",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				}
+			],
+			"whenTitleImg" :{
+				"imgURI": "../img/when_page/anne/whenTitle.png",
+				"imgID" : "whenTitleImg",
+				"imgClass": "",
+				"imgTitle": "",
+				"imgAlt" : ""
+			},
+			"whenText" : [
+				{
+					"location" : "whenDivTopLeft",
+					"heading" : "THRILLA IN MANILLA!",
+					"headingID" : "headingTL4",
+					"headingClass" : "when_text_class",
+					"text" : "On October 1, the rivalry between<br>Muhammad Ali and Joe Frazier<br>comes to a climax as Ali defeats<br>Frazier for the Heavyweight Boxing<br>Championship of the World; a bout<br>that often ranks as the greatest fight<br>of the 20th century.",
+					"textID" : "textTL4",
+					"textClass" : "when_text_class"
+				},
+				{
+					"location" : "whenDivTopCenter",
+					"heading" : "THE VIETNAM WAR ENDS",
+					"headingID" : "headingTC4",
+					"headingClass" : "when_text_class",
+					"text" : "The Cold-War era military conflict that occurred in Vietnam, Laos and<br>Cambodia finally comes to an end with the fall of Saigon on April 30, 1975.",
+					"textID" : "textTC4",
+					"textClass" : "when_text_class"
+				},
+				{
+					"location" : "whenDivTopRight",
+					"heading" : "EU PRESIDENCY",
+					"headingID" : "headingTR4",
+					"headingClass" : "when_text_class",
+					"text" : "Ireland, a member of State for two years,<br>first hosts the Presidency of the Council of<br>the European Union on January 1, 1975.",
+					"textID" : "textTR4",
+					"textClass" : "when_text_class"
+				},
+				{
+					"location" : "whenDivBottomLeft",
+					"heading" : "R.I.P.",
+					"headingID" : "headingBL4",
+					"headingClass" : "when_text_class",
+					"text" : "On August 29,<br>Eamon de Valera<br>dies at age 92.",
+					"textID" : "textBL4",
+					"textClass" : "when_text_class"
+				},
+				{
+					"location" : "whenDivBottomCenter",
+					"heading" : "JUST IMAGINE!",
+					"headingID" : "headingBC4",
+					"headingClass" : "when_text_class",
+					"text" : "In 1975, John Lennon<br>releases his single<br>&quot;Imagine&quot;. It reaches<br>number 1 on the Irish<br>Singles chart on<br>December 11, and has<br>since sold over 13 million<br>singles worldwide",
+					"textID" : "textBC4",
+					"textClass" : "when_text_class"
+				},
+				{
+					"location" : "whenDivBottomRight",
+					"heading" : "IT&#39;S &#34;BEST&#34; FOR CORK&#33; ",
+					"headingID" : "headingBR4",
+					"headingClass" : "when_text_class",
+					"text" : "George Best, aged 29, joins Cork Celtic<br>and plays a League of Ireland match<br>against Drogheda on December 28th,<br>performing for over 12,000 fans",
+					"textID" : "textBR4",
+					"textClass" : "when_text_class"
+				}
+			],
+			"whenImages" : [
+				{
+					"location" : "whenDivBottomCenter",
+					"imgURI": "../img/when_page/anne/when_anne_piano/when_piano.png",
+					"imgID" : "imgBC4_1",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"location" : "whenDivTopLeft",
+					"imgURI": "../img/when_page/anne/when_anne_boxingBell/when_boxingbell.png",
+					"imgID" : "imgTL4_1",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				}
+			],
+			"whenInteractions" : [
+				{
+					"type" : "zoomOnImage",
+					"location" : "whenDivBottomRight",
+					"imgURI": "../img/when_page/anne/when_anne_georgebest/george_zoom.png",
+					"imgID" : "imgZoomDivBR4",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": "",
+
+					"imgURIBigImage" : "../img/when_page/anne/when_anne_georgebest/george_zoom_big.png",
+					"imgClassBigImage" : "zoomImage_george_zoom",
+					"imgTitleBigImage" : "Memorial"
+				},
+				{
+					"type" : "fadeInImage",
+					"location" : "whenDivBottomLeft",
+					
+					"imgURI": "../img/when_page/anne/when_anne_rip/when_rip.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgID" : "imgFadeBL4",
+					
+					"imgURIOver": "../img/when_page/anne/when_anne_rip/when_ripover.png",
+					"imgTitleOver": "",
+					"imgClassOver": "",
+					"imgAltOver" : "",
+					"imgIDOver" : "imgFadeBL4"
+				},
+				{
+					"type" : "audioAssets",
+					"location" : "whenDivBottomCenter",
+					
+					"imgURI": "",
+					"imgID" : "",
+					"imgClass" : "",
+					"imgAlt" : "",
+					"imgTitle" : "",
+					
+					"audioButtonText" : "&#9658; CLICK TO PLAY",
+					"audioButtonID" : "audioTextButtonBC4",
+					"audioButtonClass" : "audioTextButtonClass",
+					
+					"audioID" : "audioIDBC4",
+					"audioSourceOgg" : "../audio/when_audio/anne/imagine_john_lennon_ogg.ogg",
+					"audioSourceMp3": "../audio/when_audio/anne/imagine_john_lennon_mp3.mp3"
+				},
+				{
+					"type" : "audioAssets",
+					"location" : "whenDivTopLeft",
+					
+					"imgURI": "../img/when_page/anne/when_anne_boxingBell/when_bell.png",
+					"imgID" : "imgTL4_2",
+					"imgClass" : "whenAudioImageButton hover cursor",
+					"imgAlt" : "",
+					"imgTitle" : "",
+					
+					"audioButtonText" : "",
+					"audioButtonID" : "",
+					"audioButtonClass" : "",
+					
+					"audioID" : "audioIDTL4_2",
+					"audioSourceOgg" : "../audio/when_audio/anne/boxing_bell_effect_ogg.ogg",
+					"audioSourceMp3": "../audio/when_audio/anne/boxing_bell_effect_mp3.mp3"
+				},
+				{
+					"type" : "imageGallery",
+					"location" : "whenDivTopRight",
+					"mainGalleryDivID" : "whenDivTopRightGalleryID4_1",
+					"mainGalleryDivClass" : "slideshow when_image_gallery_elements gallery_class",
+					"maskDivClass" : "when_image_mask_ID4_1 when_image_mask_class",
+					"imageGallery" : [
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/anne/when_anne_eu_pres/eu1.png",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : "Group photo taken at the European Council of Dublin, from L-R; Helmut Schmidt, Gaston Thorn, Joop den Uyl, Knud Borge Andersen, Liam Cosgrave"
+						},
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/anne/when_anne_eu_pres/eu2.png",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : "Garret FitzGerald, Irish Minister for Foreign Affairs, and Liam Cosgrave, Irish Prime Minister and President in office of the Council (left to right)"
+						},
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/anne/when_anne_eu_pres/eu3.png",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : "Harold Wilson, British Prime Minister, on the right, cutting a cake offered for his birthday at the Council meeting "
+						}
+					]
+				},
+				{
+					"type" : "cycleButtons",
+					"location" : "whenDivTopRight",
+					"buttonImages" : [
+						{
+							"imgURI": "../img/when_page/backbutton.png",
+							"imgTitle": "",
+							"imgClass": "hover cursor",
+							"imgAlt" : "",
+							"imgID" : "",
+							"divID" : "whenDivTRButtonPrevID4_1",
+							"divClass" : "when_image_gallery_elements gallery_button_class"
+						},
+						{
+							"imgURI": "../img/when_page/nextbutton.png",
+							"imgTitle": "",
+							"imgClass": "hover cursor",
+							"imgAlt" : "",
+							"imgID" : "",
+							"divID" : "whenDivTRButtonNextID4_1",
+							"divClass" : "when_image_gallery_elements gallery_button_class"
+						}
+					]
+				},
+				{
+					"type" : "videoAssets",
+					"location" : "whenDivTopCenter",
+					"posterURI": "../img/when_page/anne/video_poster.png",				
+					"videoID" : "videoIDTC4",
+					"videoSources" : [
+						{
+							"mimeType": "video/mp4",
+							"videoSource": "../video/when_video/anne/vietnam_mp4.mp4"
+						},
+						{
+							"mimeType": "video/ogg",
+							"videoSource" : "../video/when_video/anne/vietnam_ogv.ogv"
+						},
+						{
+							"mimeType": "video/webm",
+							"videoSource" : "../video/when_video/anne/vietnam_webm.webm"
+						}
+					]
+				}
+			]
+		},
+
+		"whatPage" :{
+			"whatLuggageClass": "what_luggage_anne",
+			"whatBg" : {
+				"imgURI" : "../img/what_page/anne/suitcase.png",
+				"imgWidth" : "534px",
+				"imgHeight" : "370px"
+			},
+			"whatluggageClasp" : {
+				"imgURI" : "../img/what_page/anne/suitcase_clasp.png",
+				"imgID" : "suitcase_clasp_ID_anne",
+				"imgAlt" :"",
+				"imgTitle":""
+			},
+			"whatTitleDiv" :{
+				"imgURI": "../img/what_page/what_description.png",
+				"imgTitle": "",
+				"imgClass": "",
+				"imgAlt" : ""
+			},
+			"whatTextbox" :{
+				"imgURI": "../img/what_page/what_textbox.png",
+				"imgClass": "",
+				"imgID": "textboxDiv",
+				"imgAlt" : "",
+				"imgTitle": ""
+			},
+			"whatTextboxInfo":[
+				{
+					"headingText" : "FIND OUT MORE",
+					"text" : "Pack the items <br> into the suitcase to",
+					"divID" : "textbox_ID1_0",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "SEQUINED DRESS",
+					"text" : "The 1970s was characterized by distinctive fashion trends, &#34;Disco&#34; being one of the most prevalent.",
+					"divID" : "textbox_ID4_1",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "PLATFORM SHOES",
+					"text" : "Anne brought her trendy platform shoes; platforms first appeared on the fashion scene in 1971 and often had soles 2-4 inches thick.",
+					"divID" : "textbox_ID4_2",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "PARAGON BELINDA CHINA SET",
+					"text" : "The set was a wedding gift given by Anne&#39;s aunt to help start a collection.",
+					"divID" : "textbox_ID4_3",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "ARLO, THE FAMILY GERMAN SHEPARD",
+					"text" : "For nearly 6 months after the couple emigrated, Arlo awaited their return outside their old house.",
+					"divID" : "textbox_ID4_4",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "300 POUNDS",
+					"text" : "The couple came over with roughly 300 Northern Irish pounds; their rent upon arrival was $210.",
+					"divID" : "textbox_ID4_5",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "VINYL RECORDS",
+					"text" : "The couple could only pack a few records, the remainder of their 250 LP vinyl record collection was sent over later in tea-chests.",
+					"divID" : "textbox_ID4_6",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "ZIG-ZAG TOP",
+					"text" : "Anne packed all of her &#34;Mod&#34; clothes that were characteristic of the era.",
+					"divID" : "textbox_ID4_7",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "WEDDING ALBUM",
+					"text" : "The pair were married less than a year before emigrating.",
+					"divID" : "textbox_ID4_8",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "You're Packed!",
+					"text" : "Close the case and continue on your journey",
+					"divID" : "textbox_ID4_End",
+					"divClass" : "what_textBox_class"
+				}
+			],
+			"itemContainerDiv1" : [
+				{
+					"imgURI": "../img/what_page/anne/anne_what_dress.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID4_1",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/anne/anne_what_shoes.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID4_2",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/anne/anne_what_teaCup.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID4_3",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/anne/anne_what_prohibited_dog.png",
+					"imgTitle": "",
+					"imgClass": "cursor hover",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID4_4",
+					"imgLiClass" : "notDraggable"
+				},
+				{
+					"imgURI": "../img/what_page/anne/anne_what_money.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID4_5",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/anne/anne_what_prohibited_vinyls.png",
+					"imgTitle": "",
+					"imgClass": "cursor hover",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID4_6",
+					"imgLiClass" : "notDraggable"
+				}
+			],
+			"itemContainerDiv2" :[
+				{
+					"imgURI": "../img/what_page/anne/anne_what_jumper.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID4_7",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/anne/anne_what_weddingAlbum.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID4_8",
+					"imgLiClass" : "draggableItems"
+				}
+			]
+		},
+		
+		"howPage" :{
+			"howBgURI" : "../img/how_page/anne/bg.png",
+			
+			"howTextDiv": {
+				"howText": "The couple spent the months before and after their wedding working part time jobs at a local hotel bar, Greenan Lodge, to save up for the wedding and their emigration journey. Once the fare of a couple of hundred pounds was saved, the pair embarked on their journey. The first leg of the trip started onboard an old WW2 plane, flying from Belfast to Prestwick. It was Anne&#39;s first time on a plane and she found the short flight quite unpleasant. Once in Prestwick the couple boarded a DC9-40 headed for Montreal.<br><br>The DC-9 series is one of the longest lasting aircrafts in operation, and has had many succeeding versions built after it. A commercial success, 976 of the aircraft were built before production ended in 1982.<br><br>When the plane landed in Montreal the couple then boarded another similar aircraft for their last leg of the trip taking them finally to their destination in Toronto. Despite a much more pleasant flying experience, the landing condition didn&#39;t go exactly to plan.",
+				"textClass": "howText4"
+			},
+			"howTransportButtons" : [
+				{
+					"transportButtonWrapperID" : "how_transport_button_wrapper_ID1_anne",
+					"transportButtonWrapperClass" : "how_transport_button_wrapper",
+					"transportButtonID" : "how_transport_button_ID1_anne", 
+					"transportButtonClass" : "how_transport_button"
+				},
+				{
+					"transportButtonWrapperID" : "how_transport_button_wrapper_ID2_anne",
+					"transportButtonWrapperClass" : "how_transport_button_wrapper",
+					"transportButtonID" : "how_transport_button_ID2_anne", 
+					"transportButtonClass" : "how_transport_button"
+				},
+				{
+					"transportButtonWrapperID" : "how_transport_button_wrapper_ID3_anne",
+					"transportButtonWrapperClass" : "how_transport_button_wrapper",
+					"transportButtonID" : "how_transport_button_ID3_anne", 
+					"transportButtonClass" : "how_transport_button"
+				}
+			],
+			"howTransportButtonImages": [
+				{
+					"imgURI": "../img/how_page/anne/transport_images/how_anne_button_image_1.png",
+                    "imgID" : "how_transport_button_image_ID1_anne",
+					"imgClass": "how_transport_button_images cursor",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/how_page/anne/transport_images/how_anne_button_image_2.png",
+                    "imgID" : "how_transport_button_image_ID2_anne",
+					"imgClass": "how_transport_button_images cursor",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/how_page/anne/transport_images/how_anne_button_image_3.png",  
+                    "imgID" : "how_transport_button_image_ID3_anne",
+					"imgClass": "how_transport_button_images cursor",
+					"imgAlt" : "",
+					"imgTitle": ""
+				}
+			],
+			"howAudioDiv": {
+				"audioButtonText" : "&#9658; CLICK TO PLAY",
+				"audioButtonID" : "how_audio_Text_Button_4_1",
+				"audioID" : "audioID_4_1",
+				"audioButtonClass" : "audioTextButtonClass",
+				"audioSourceOgg" : "../audio/how_audio/anne/anne_audio_ogg.ogg",
+				"audioSourceMp3": "../audio/how_audio/anne/anne_audio_mp3.mp3"
+			},
+			
+			"howAccordionDiv": [
+                {
+                    "accordionTitle" : "Passengers",
+					"accordionTitleClass" : "accordion_title_class",
+					"accordionContentDivClass": "accordionContentDiv cursor openAcc",
+					"imgURI": "../img/how_page/anne/info_bar/passengers.png",
+                    "imgTitle": "",
+                    "imgClass": "",
+					"imgAlt" : ""
+                },
+                {
+					"accordionTitle" : "Cost",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+                    "imgURI": "../img/how_page/anne/info_bar/cost.png",
+                    "imgTitle": "",
+                    "imgClass": "",
+					"imgAlt" : ""
+                },
+                {
+					"accordionTitle" : "Distance",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+                    "imgURI": "../img/how_page/anne/info_bar/distance.png",
+                    "imgTitle": "",
+                    "imgClass": "",
+					"imgAlt" : ""
+                },
+				{
+					"accordionTitle" : "Duration",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+                    "imgURI": "../img/how_page/anne/info_bar/duration.png",
+                    "imgTitle":"",
+                    "imgClass": "",
+					"imgAlt" : ""
+                },
+                {
+					"accordionTitle" : "Length",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+                    "imgURI": "../img/how_page/anne/info_bar/length.png",
+                    "imgTitle": "",
+                    "imgClass": "",
+					"imgAlt" : ""
+                },
+				{
+					"accordionTitle" : "Weight",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+                    "imgURI": "../img/how_page/anne/info_bar/weight.png",
+                    "imgTitle": "",
+                    "imgClass": "",
+					"imgAlt" : ""
+                }
+            ]
+		},
+		
+		"wherePage" : {
+			"whereBgURI" : "../img/where_page/anne/bg.png",
+			"mapData" : "../js/vendor/jvectormap/maps/jquery-jvectormap-uk-mill-en.js",
+			"whereInfoDiv" : {
+				"imgLocale" : "Splash",
+				"imgURI": "../img/where_page/anne/infoDiv/infoDivImgSplash.png",
+				"imgTitle": "",
+				"imgClass": "",
+				"imgAlt" : "",
+				"imgID" : "imgInfo"
+			},
+			"whereInfoDivInfoPoints" :[
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "The federal government, under Prime Minister Trudeau announced a new policy of multiculturalism in 1971&#59; making Canada the first country in the world to adopt multiculturalism as an official policy.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointSplash_anne_1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "The gang became the most notorious crew of bank&#8211;robbers operating in North America.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointON1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "Their objective was to assist newly arrived immigrants with the process of settling in and to help established immigrants in times of need.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointON2"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "Involved in what media dubbed the &#8220;Crime of the Century&#8221; after hijacking an armoured car and making off with over &#36;2.7 million in cash.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointQC1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "The Irish squad was victorious over their less fit hosts.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointQC2"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "From The Penguin History of Canada by Robert Bothwell.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointBC1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "The show promoted Ireland and Irish music to Canadians and became one of the most popular variety shows of the time.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointBC2"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "The aim of the club was to bring the local Irish community together socially and while promoting Gaelic games.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointBC3"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "With the advent of skyscrapers, subdivisions and regional shopping centers, Calgary reached a new urban status ",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointAB1"
+				}
+			]			
+		},
+		
+		"whyPage":{
+			"whyTitle" : {
+				"imgURI": "../img/why_page/anne/why_title.png",
+				"imgID" : "whyTitle",
+				"imgClass": "",
+				"imgAlt" : "",
+				"imgTitle": ""
+			},					
+			"whyMinorBgURI" : "../img/why_page/minor_reasons_panel.png",
+			"whyMainImgDiv" : [
+				{
+					"imgURI": "../img/why_page/anne/main_reasons_anne/reason1.png",
+					"infoText" : "Since 1921, Protestant leaders had dominated Northern Ireland&#39;s political and social climate. This control led to resentment and anger from the Catholic minority, coming to a head in the &#39;60s with civil rights protests and violence&#59; this conflict came to be known as &#39;the Troubles&#39;.<br><br>3,524 people were killed in the three decades that followed, including soldiers, participants and bystanders, as a result of the guerrilla-type warfare. 1,857 were civilians. Northern Ireland emigration peaked in the 1970s in direct association with the most violent phase of the conflict, when the fatality rate surpassed one death every day. Northern Irish emigration totaled 115,000 in the period 1959 &#45; &#39;75; a number equivalent to more than 11&#37; of the NI population."
+				},
+				{
+					"imgURI": "../img/why_page/anne/main_reasons_anne/reason2.png",
+					"infoText" : "In 1974, the world experienced a significant decline in oil production which brought about a world-wide recession that had disastrous effects on the Irish economy. High levels of Government borrowing for current expenditure created a soaring foreign debt. The world recession resulted in the withdrawal of many foreign companies from Ireland. Ireland suffered from investment loses and jobs as the inflation rate hit 20&#37; as the international oil crisis worsened. Dole queues lengthened amid continuing industrial unrest and Ireland reached an unemployment rate of 5.2&#37;. Although emigration numbers would not peak until the 1980s, the 1974 recession encouraged a continuous outflow of emigration throughout the decade."					
+				},
+				{
+					"imgURI": "../img/why_page/anne/main_reasons_anne/reason3.png",
+					"infoText" : "The first airline transatlantic route was introduced in 1958 and with the economy improving in Ireland the late 60s saw a significant growth in commercial services. Each of airline Aer Lingus&#39; three airports experienced significant capital development in the 1970s; Dublin Airport opened a new 8,600&#45;foot runway and spent &#163;7 million on a new terminal in May 1972. Two years later Trans World Airlines opened its new Atlantic service to Dublin. The 70s also brought the popular Boeing 474 &#39;Jumbo Jets&#39; to the route, which remained in service for the next 25 years. By the late 1970s, 70,000 flights were crossing the Atlantic annually. "
+				}		
+			],
+			"whyMinorImgDiv" : [
+				{
+					"imgURI": "../img/why_page/anne/minor_reasons_anne/minor_reasons_anne_0.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgID" : ""
+				},
+				{
+					"imgURI": "../img/why_page/anne/minor_reasons_anne/minor_reasons_anne_1.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgID" : ""
+				},
+				{
+					"imgURI": "../img/why_page/anne/minor_reasons_anne/minor_reasons_anne_2.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgID" : ""
+				},
+				{
+					"imgURI": "../img/why_page/anne/minor_reasons_anne/minor_reasons_anne_3.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgID" : ""
+				}
+			],
+			"whyButtonDiv" : [
+				{
+					"imgURI": "../img/why_page/minor_reasons_arrow/backbutton.png",
+					"imgTitle": "",
+					"imgClass": "hover cursor",
+					"imgAlt" : "",
+					"imgID" : "",
+					"divID" : "whyMinorBackButton"
+				},
+				{
+					"imgURI": "../img/why_page/minor_reasons_arrow/nextbutton.png",
+					"imgTitle": "",
+					"imgClass": "hover cursor",
+					"imgAlt" : "",
+					"imgID" : "",
+					"divID" : "whyMinorNextButton"
+				}
+			]
+		}
+		
+	}
+}

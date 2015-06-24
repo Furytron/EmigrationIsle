@@ -1,0 +1,998 @@
+{
+    "person": {
+        "whoPage": {
+			"whoBgURI" : "../img/who_page/margaret/bg.png",
+			"whoInfoPoint" : 
+			{
+				"imgURI": "../img/general/info_point.png",
+				"imgID": "",
+				"imgClass": "tooltip who_info_point",
+				"imgAlt" : "",
+				"imgTitle": "Inmates in wore drab cotton clothing often stenciled with a &#8216;C&#8217;, and dependent on behavior some women had their heads shaved."
+			},
+            "whoIconDiv": [
+                {
+                    "imgURI": "../img/who_page/general/house_icon.png",
+                    "imgTitle": "Huts or mud cabins were the miserable dwellings of cottiers.",
+                    "imgClass": "tooltip",
+					"imgAlt" : ""
+                },
+                {
+                    "imgURI": "../img/who_page/margaret/icons/family_icon.png",
+                    "imgTitle": "A married woman, and the mother of two infant children. What became of her children is not known, for there is no record of their arrival in New South Wales.",
+                    "imgClass": "tooltip",
+					"imgAlt" : ""
+                },
+                {
+                    "imgURI": "../img/who_page/margaret/icons/ireland_icon.png",
+                    "imgTitle": "From Co. Cork, which is also the place where she was tried and convicted.",
+                    "imgClass": "tooltip",
+					"imgAlt" : ""
+                },
+                {
+                    "imgURI": "../img/who_page/margaret/icons/convict_icon.png",
+                    "imgTitle": "Transported due to overcrowding in Irish prisons.",
+					"imgClass": "tooltip",
+					"imgAlt" : ""
+                },
+                {
+                    "imgURI": "../img/who_page/margaret/icons/maid_icon.png",
+                    "imgTitle":"Worked as a house maid.",                   
+				    "imgClass": "tooltip",
+					"imgAlt" : ""
+                },
+                {
+                    "imgURI": "../img/who_page/general/born_icon.png",
+                    "imgTitle": "Born in 1799, date unknown.",                   
+				    "imgClass": "tooltip",
+					"imgAlt" : ""
+                }
+            ],
+			
+			
+			"whoTextDiv": {
+				"whoText" : "In 1823, Margaret Delaney was accused and tried on the accusation of theft. A first time offender, she was accused of stealing an item of children&apos;s clothing worth one shilling and eight pence, which approximately converts to &euro;4.30, GBP&pound;3.49, or US&dollar;5.60 today. </br> </br> Margaret insisted she was innocent, stating she had simply pawned the child&apos;s clothing on behalf of another woman living in Cork. Furthermore, she begged not to be transported for the sake of her young children, &quot;<em>Who if thrown upon the mercy of the world... must certainly perish, the eldest being only three years of age.</em>&quot; Margaret&apos;s pleas and petitions were to no avail, and at the age of 25, Ms. Delaney was convicted and sentenced to 7 years transportation to New South Wales. ",
+				"textClass" : "whoTextclass"
+			},
+			
+			"whoRulerDiv": [
+				{
+					"imgURI": "../img/who_page/margaret/ruler_buttons/rulerButton.png",
+                    "imgTitle": "",
+                    "imgClass": "hover cursor whoRulerDivImgClass",
+					"imgID" : "whoRulerDivImg1",
+					"imgAlt" : ""
+				},
+				{
+					"imgURI": "../img/who_page/margaret/ruler_buttons/rulerButton.png",
+                    "imgTitle": "",
+                    "imgClass": "hover cursor whoRulerDivImgClass",
+					"imgID" : "whoRulerDivImg2",
+					"imgAlt" : ""
+				},
+				{
+					"imgURI": "../img/who_page/margaret/ruler_buttons/rulerButton.png",
+                    "imgTitle": "",
+                    "imgClass": "hover cursor whoRulerDivImgClass",
+					"imgID" : "whoRulerDivImg3",
+					"imgAlt" : ""
+				},
+				{
+					"imgURI": "../img/who_page/margaret/ruler_buttons/rulerButton.png",
+                    "imgTitle": "",
+                    "imgClass": "hover cursor whoRulerDivImgClass",
+					"imgID" : "whoRulerDivImg4",
+					"imgAlt" : ""
+				}
+			],
+			
+			"whoBarchartDiv":{ 
+				"whoBarchartDefaultText" : "TOTAL IRISH EMIGRANTS: ",
+				"whoBarchartDefaultNum": "1,040,816",
+				"whoBarchartXaxisLabel" : "Provinces",
+				"whoBarchartXaxisLabelClass" : "xlabel",
+				"whoBarchartValues":[
+					{
+						"barClass" : "margaretBars margaretBar_one barHandle",
+						"barTextValue" : "TOTAL EMIGRANTS:",
+						"barValue" : "290,970"
+					},
+					{
+						"barClass" : "margaretBars margaretBar_two barHandle",
+						"barTextValue" : "TOTAL EMIGRANTS:",
+						"barValue" : "332,936"			
+					},
+					{
+						"barClass" : "margaretBars margaretBar_three barHandle",
+						"barTextValue" : "TOTAL EMIGRANTS:",
+						"barValue" : "171,287"
+					},
+					{
+						"barClass" : "margaretBars margaretBar_four barHandle",
+						"barTextValue" : "TOTAL EMIGRANTS:",
+						"barValue" : "245,624"			
+					}
+				]
+			},
+			"whoFadeInDiv" :{
+				"type" : "fadeInImage",
+				"location" : "whoFadeInDiv",
+				
+				"imgURI": "../img/who_page/margaret/fadeIns/magaretFadeIn.png",
+				"imgTitle": "",
+				"imgClass": "",
+				"imgAlt" : "",
+				"imgID" : "whoImgFadeIn",
+				
+				"imgURIOver": "../img/who_page/margaret/fadeIns/magaretFadeInOver.png",
+				"imgTitleOver": "",
+				"imgClassOver": "",
+				"imgAltOver" : "",
+				"imgIDOver" : "whoImgFadeIn"
+			}
+		},
+		
+		"whenPage":{
+			"whenPinImages" : [
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinTL",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinTC",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinTR",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinBL",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinBC",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinBR",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				}
+			],
+			"whenTitleImg" :{
+				"imgURI": "../img/when_page/margaret/whenTitle.png",
+				"imgID" : "whenTitleImg",
+				"imgClass": "",
+				"imgAlt" : "",
+				"imgTitle": ""
+			},
+			"whenText" : [
+				{
+					"location" : "whenDivTopLeft",
+					"heading" : "MUSIC TO THE EARS!",
+					"headingID" : "headingTL1",
+					"headingClass" : "when_text_class",
+					"text" : "Beethoven premieres his Ninth<br>Symphony at Karntnertor Theatre on<br>May 7th.<br><br><br>Hear a snippet of his masterpiece",
+					"textID" : "textTL1",
+					"textClass" : "when_text_class"
+				},
+				{
+					"location" : "whenDivTopCenter",
+					"heading" : "NEW IDEA</br>GATHERS STEAM...",
+					"headingID" : "headingTC1",
+					"headingClass" : "when_text_class",
+					"text" : "In Newcastle, England,</br>construction begins on the</br>first locomotive workshop</br>in the world, heralding the</br>beginning of the railway</br>age.",
+					"textID" : "textTC1",
+					"textClass" : "when_text_class"
+				},
+				{
+					"location" : "whenDivTopRight",
+					"heading" : "",
+					"headingID" : "",
+					"headingClass" : "",
+					"text" : "Thomas William Croke D.D. is born on</br>May 28, 1824.</br>Croke was important in the Irish nationalist</br>movement and the main Gaelic Athletic</br>Association stadium in Dublin is named</br>Croke Park, in his honour.",
+					"textID" : "textTR1",
+					"textClass" : "when_text_class"
+				},
+				{
+					"location" : "whenDivBottomLeft",
+					"heading" : "",
+					"headingID" : "",
+					"headingClass" : "",
+					"text" : "19 people were drowned when a boat</br>carrying a coffin overturned in a</br>winter  squall,</br>on its  way to</br>Devenish</br>Island in</br>Lough Erne",
+					"textID" : "textBL1",
+					"textClass" : "when_text_class"
+				},
+				{
+					"location" : "whenDivBottomCenter",
+					"heading" : "MAKING WAVES!",
+					"headingID" : "headingBC1",
+					"headingClass" : "when_text_class",
+					"text" : "Noah Cushing of Quebec City,</br>Canada receives a patent for a</br>washing and fulling machine.",
+					"textID" : "textBC1",
+					"textClass" : "when_text_class"
+				},
+				{
+					"location" : "whenDivBottomRight",
+					"heading" : "NAMING A</br>NATION",
+					"headingID" : "headingBR1",
+					"headingClass" : "when_text_class",
+					"text" : "The name<br>change<br>from &quot;New<br>Holland&quot;<br>to &quot;Australia&quot;,<br>first recommended<br>by Matthew Flinders in 1804,<br>receives official sanction by the<br>United Kingdom.",
+					"textID" : "textBR1",
+					"textClass" : "when_text_class"
+				}
+			],
+			"whenImages" : [
+				{
+					"location" : "whenDivTopCenter",
+					"imgURI": "../img/when_page/margaret/train/steam_whistle.png",
+					"imgID" : "imgTC1_1",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"location" : "whenDivTopCenter",
+					"imgURI": "../img/when_page/margaret/train/steam_train.png",
+					"imgID" : "imgTC1_2",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"location" : "whenDivBottomRight",
+					"imgURI": "../img/when_page/margaret/australia_map/australia.png",
+					"imgID" : "imgBR1_1",
+					"imgClass": "hover",
+					"imgAlt" : "",
+					"imgTitle": ""
+				}
+			],
+			"whenInteractions" : [
+				{
+					"type" : "zoomOnImage",
+					"location" : "whenDivBottomCenter",
+					"imgURI": "../img/when_page/margaret/washing_machine.png",
+					"imgID" : "imgZoomDivBC1",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": "",
+
+					"imgURIBigImage" : "../img/when_page/margaret/washing_machine_big.jpg",
+					"imgClassBigImage" : "zoomImage_Washing",
+					"imgTitleBigImage" : "Washing Machine"
+				},
+				{
+					"type" : "audioAssets",
+					"location" : "whenDivTopLeft",
+					
+					"imgURI": "",
+					"imgID" : "",
+					"imgClass" : "",
+					"imgAlt" : "",
+					"imgTitle" : "",
+					
+					"audioButtonText" : "&#9658; CLICK TO PLAY",
+					"audioButtonID" : "audioTextButtonTL1",
+					"audioButtonClass" : "audioTextButtonClass",
+					
+					"audioID" : "audioIDTL1",
+					"audioSourceOgg" : "../audio/when_audio/margaret/beethoven_audio/beethoven_audio_ogg.ogg",
+					"audioSourceMp3": "../audio/when_audio/margaret/beethoven_audio/beethoven_audio_mp3.mp3"
+				},
+				{
+					"type" : "audioAssets",
+					"location" : "whenDivTopCenter",
+					
+					"imgURI": "../img/when_page/margaret/train/steam.png",
+					"imgID" : "imgTC1_3",
+					"imgClass" : "whenAudioImageButton hover cursor",
+					"imgAlt" : "",
+					"imgTitle" : "",
+					
+					"audioButtonText" : "",
+					"audioButtonID" : "",
+					
+					"audioID" : "audioIDTC1_3",
+					"audioSourceOgg" : "../audio/when_audio/margaret/train_audio/train_audio.ogg",
+					"audioSourceMp3": "../audio/when_audio/margaret/train_audio/train_audio.mp3"
+					
+					
+				},
+				{
+					"type" : "fadeInImage",
+					"location" : "whenDivBottomLeft",
+					
+					"imgURI": "../img/when_page/margaret/when_currach.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgID" : "imgFadeBL1",
+					
+					"imgURIOver": "../img/when_page/margaret/when_currachover.png",
+					"imgTitleOver": "",
+					"imgClassOver": "",
+					"imgAltOver" : "",
+					"imgIDOver" : "imgFadeBL1"
+				},
+				{
+					"type" : "imageGallery",
+					"location" : "whenDivTopLeft",
+					"mainGalleryDivID" : "whenDivTopLeftGalleryID1_1",
+					"mainGalleryDivClass" : "slideshow when_image_gallery_elements gallery_class",
+					"maskDivClass" : "when_image_mask_ID1_1 when_image_mask_class",
+					"imageGallery" : [
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/margaret/bethoven/bethoven1.png",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : "Ludwig van Beethoven, ca. 1820"
+						},
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/margaret/bethoven/bethoven2.png",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : "Laimgrubengasse 22, one of the apartments where Beethoven lived"
+						},
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/margaret/bethoven/bethoven3.png",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : "Karntnertor Theatre, Vienna ca. 1830"
+						}
+					]
+				},
+				{
+					"type" : "imageGallery",
+					"location" : "whenDivTopRight",
+					"mainGalleryDivID" : "whenDivTopRightGalleryID1_2",
+					"mainGalleryDivClass" : "when_image_gallery_elements slideshow gallery_class",
+					"maskDivClass" : "when_image_mask_ID1_2 when_image_mask_class",
+					"imageGallery" : [
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/margaret/thomas_croke/thomascroke.jpg",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : "Thomas William Croke D.D."
+						},
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/margaret/thomas_croke/crokepark.jpg",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : "Croke Park"
+						}
+					]
+				},
+				{
+					"type" : "cycleButtons",
+					"location" : "whenDivTopLeft",
+					"buttonImages" : [
+						{
+							"imgURI": "../img/when_page/backbutton.png",
+							"imgTitle": "",
+							"imgClass": "hover cursor",
+							"imgAlt" : "",
+							"imgID" : "",
+							"divID" : "whenDivTLButtonPrevID1_1",
+							"divClass" : "when_image_gallery_elements gallery_button_class"
+						},
+						{
+							"imgURI": "../img/when_page/nextbutton.png",
+							"imgTitle": "",
+							"imgClass": "hover cursor",
+							"imgAlt" : "",
+							"imgID" : "",
+							"divID" : "whenDivTLButtonNextID1_1",
+							"divClass" : "when_image_gallery_elements gallery_button_class"
+						}
+					]
+				},
+				{
+					"type" : "cycleButtons",
+					"location" : "whenDivTopRight",
+					"buttonImages" : [
+						{
+							"imgURI": "../img/when_page/backbutton.png",
+							"imgTitle": "",
+							"imgClass": "hover cursor",
+							"imgAlt" : "",
+							"imgID" : "",
+							"divID" : "whenDivTRButtonPrevID1_2",
+							"divClass" : "when_image_gallery_elements gallery_button_class"
+						},
+						{
+							"imgURI": "../img/when_page/nextbutton.png",
+							"imgTitle": "",
+							"imgClass": "hover cursor",
+							"imgAlt" : "",
+							"imgID" : "",
+							"divID" : "whenDivTRButtonNextID1_2",
+							"divClass" : "when_image_gallery_elements gallery_button_class"
+						}
+					]
+				}
+			]
+		},
+		"whatPage" :{
+			"whatLuggageClass": "what_luggage_margaret",
+			"whatBg" : {
+				"imgURI" : "../img/what_page/margaret/suitcase.png",
+				"imgWidth" : "534px",
+				"imgHeight" : "370px"
+			},
+			"whatluggageClasp" : {
+				"imgURI" : "../img/what_page/margaret/suitcase_clasp.png",
+				"imgID" : "suitcase_clasp_ID_margaret",
+				"imgAlt" :"",
+				"imgTitle":""
+			
+			},
+			"whatTitleDiv" :{
+				"imgURI": "../img/what_page/what_description.png",
+				"imgTitle": "",
+				"imgClass": "",
+				"imgAlt" : ""
+			},
+			"whatTextbox" :{
+				"imgURI": "../img/what_page/what_textbox.png",
+				"imgClass": "",
+				"imgID": "textboxDiv",
+				"imgAlt" : "",
+				"imgTitle": ""
+			},
+			"whatTextboxInfo":[
+				{
+					"headingText" : "FIND OUT MORE",
+					"text" : "Pack the items <br> into the suitcase to",
+					"divID" : "textbox_ID1_0",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "PETTICOAT",
+					"text" : "The women were given one grey petticoat made of baize, a coarse woollen fabric that is now used as a felt on snooker tables. ",
+					"divID" : "textbox_ID1_1",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "APRONS",
+					"text" : "When the women arrived on board they were issued with two aprons.",
+					"divID" : "textbox_ID1_2",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "SEWING KIT",
+					"text" : "A sewing kit was supplied for the women to keep them quietly occupied by busying their hands and minds on the voyage.",
+					"divID" : "textbox_ID1_3",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "POTS",
+					"text" : "Food was cooked in a large communal pot onboard; the only personal utensils alloted were tin mugs, spoons + wooden bowls.",
+					"divID" : "textbox_ID1_4",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "BONNET",
+					"text" : "They were entitled to one linen bonnet, linen being the most commonly used fabric in shirts, shifts, and caps in the 19th c.",
+					"divID" : "textbox_ID1_5",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "SHIFT",
+					"text" : "The women were provided with clothing to last them for two years, which included two shifts (plain dresses).",
+					"divID" : "textbox_ID1_6",
+					"divClass" : "what_textBox_class"
+				},
+				{
+				"headingText" : "HANKERCHIEFS",
+					"text" : "Two handkerchiefs were issued, ironically, as many of the women transported had stolen items as petty as handkerchiefs.",
+					"divID" : "textbox_ID1_7",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "POTATO",
+					"text" : "Rations were distributed on the boat; potatoes were not among what was allotted.",
+					"divID" : "textbox_ID1_8",
+					"divClass" : "what_textBox_class"
+				},
+				{
+				"headingText" : "SOAP",
+					"text" : "Plenty of soap was provided for personal cleanliness and also for the two times a week the women were allowed to wash clothes.",
+					"divID" : "textbox_ID1_9",
+					"divClass" : "what_textBox_class"
+				},
+				{
+				"headingText" : "BOOTS",
+					"text" : "The female convicts were each allocated one pair of boots. These boots weren't specifically made for the right or left foot.",
+					"divID" : "textbox_ID1_10",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "JACKET",
+					"text" : "Each woman was given one grey baize jacket. Baize is a coarse woollen cloth used for covering curtains and linings.",
+					"divID" : "textbox_ID1_11",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "STOCKINGS",
+					"text" : "Before embarking, the convicts were washed and fitted out with the regulation dress for the voyage, which included yarn stockings.",
+					"divID" : "textbox_ID1_12",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "You're Packed!",
+					"text" : "Close the case and continue on your journey",
+					"divID" : "textbox_ID1_End",
+					"divClass" : "what_textBox_class"
+				}
+			],
+			"itemContainerDiv1" : [
+				{
+					"imgURI": "../img/what_page/margaret/margaret_what_boots.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID1_10",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/margaret/margaret_what_prohibited_potatoes.png",
+					"imgTitle": "",
+					"imgClass": "hover cursor",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID1_8",
+					"imgLiClass" : "notDraggable"
+				},
+				{
+					"imgURI": "../img/what_page/margaret/margaret_what_shiftdress.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID1_6",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/margaret/margaret_what_sewingKit.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID1_3",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/margaret/margaret_what_prohibited_pots.png",
+					"imgTitle": "",
+					"imgClass": "hover cursor",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID1_4",
+					"imgLiClass" : "notDraggable"
+				},
+				{
+					"imgURI": "../img/what_page/margaret/margaret_what_stockings.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID1_12",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/margaret/margaret_what_bonnet.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID1_5",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/margaret/margaret_what_soap.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID1_9",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/margaret/margaret_what_jacket.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID1_11",
+					"imgLiClass" : "draggableItems"
+				}
+			],
+			"itemContainerDiv2" :[
+				{
+					"imgURI": "../img/what_page/margaret/margaret_what_apron.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID1_2",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/margaret/margaret_what_petticoat.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID1_1",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/margaret/margaret_what_hankerchief.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID1_7",
+					"imgLiClass" : "draggableItems"
+				}
+			]
+		},
+		
+		"howPage" :{
+			"howBgURI" : "../img/how_page/margaret/bg.png",
+			
+			"howTextDiv": {
+				"howText": "The conditions aboard the ships were gloomy, dank and unsanitary. The water seeped through the ship&#8217;s seams and the convicts&#8217; bunks and bedding could not be kept dry. The stench of the prison, the smell of bilge and moldy rotting timber mingled in the air with the foul odours of closely&#8211;packed humanity. Disease was rife onboard, primarily scurvy, dysentery, typhoid fever and smallpox. On the Second fleet, starvation took the highest toll on the<br>prisoners chained below the decks.",
+				"textClass": "howText"
+			},
+			"howTransportButtons" : [
+				{
+					"transportButtonWrapperID" : "how_transport_button_wrapper_ID1_margaret",
+					"transportButtonWrapperClass" : "how_transport_button_wrapper",
+					"transportButtonID" : "how_transport_button_ID1_margaret", 
+					"transportButtonClass" : "how_transport_button"
+				},
+				{
+					"transportButtonWrapperID" : "how_transport_button_wrapper_ID2_margaret",
+					"transportButtonWrapperClass" : "how_transport_button_wrapper",
+					"transportButtonID" : "how_transport_button_ID2_margaret", 
+					"transportButtonClass" : "how_transport_button"
+				},
+				{
+					"transportButtonWrapperID" : "how_transport_button_wrapper_ID3_margaret",
+					"transportButtonWrapperClass" : "how_transport_button_wrapper",
+					"transportButtonID" : "how_transport_button_ID3_margaret", 
+					"transportButtonClass" : "how_transport_button"
+				},
+				{
+					"transportButtonWrapperID" : "how_transport_button_wrapper_ID4_margaret",
+					"transportButtonWrapperClass" : "how_transport_button_wrapper",
+					"transportButtonID" : "how_transport_button_ID4_margaret", 
+					"transportButtonClass" : "how_transport_button"
+				}
+			],
+			"howTransportButtonImages": [
+				{
+					"imgURI": "../img/how_page/margaret/transport_images/how_margaret_button_image_1.png",
+                    "imgID" : "how_transport_button_image_ID1_margaret",
+					"imgClass": "how_transport_button_images cursor",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/how_page/margaret/transport_images/how_margaret_button_image_2.png",
+                    "imgID" : "how_transport_button_image_ID2_margaret",
+					"imgClass": "how_transport_button_images cursor",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/how_page/margaret/transport_images/how_margaret_button_image_3.png",  
+                    "imgID" : "how_transport_button_image_ID3_margaret",
+					"imgClass": "how_transport_button_images cursor",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/how_page/margaret/transport_images/how_margaret_button_image_4.png",
+                    "imgID" : "how_transport_button_image_ID4_margaret",
+					"imgClass": "how_transport_button_images cursor",
+					"imgAlt" : "",
+					"imgTitle": ""
+					
+				}
+			],
+
+			"howAudioDiv": {
+				
+				"audioButtonText" : "&#9658; CLICK TO PLAY",
+				"audioButtonID" : "how_audio_Text_Button_1_1",
+				"audioID" : "audioID_1_1",
+				"audioButtonClass" : "audioTextButtonClass",
+				"audioSourceOgg" : "../audio/how_audio/margaret/margaret_audio_ogg.ogg",
+				"audioSourceMp3": "../audio/how_audio/margaret/margaret_audio_mp3.mp3"
+			},
+			
+			"howAccordionDiv": [
+                {
+                    "accordionTitle" : "Passengers",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+					"imgURI": "../img/how_page/margaret/info_bar/passengers.png",
+                    "imgTitle": "",
+                    "imgClass": "",
+					"imgAlt" : ""
+                },
+                {
+					"accordionTitle" : "Captain",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+                    "imgURI": "../img/how_page/margaret/info_bar/captain.png",
+                    "imgTitle": "",
+                    "imgClass": "",
+					"imgAlt" : ""
+                },
+                {
+					"accordionTitle" : "Distance",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+                    "imgURI": "../img/how_page/margaret/info_bar/distance.png",
+                    "imgTitle": "",
+                    "imgClass": "",
+					"imgAlt" : ""
+                },
+				{
+					"accordionTitle" : "Duration",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+                    "imgURI": "../img/how_page/margaret/info_bar/duration.png",
+                    "imgTitle":"",
+                    "imgClass": "",
+					"imgAlt" : ""
+                },
+                {
+					"accordionTitle" : "Length",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+                    "imgURI": "../img/how_page/margaret/info_bar/length.png",
+                    "imgTitle": "",
+                    "imgClass": "",
+					"imgAlt" : ""
+                },
+				{
+					"accordionTitle" : "Weight",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+                    "imgURI": "../img/how_page/margaret/info_bar/weight.png",
+                    "imgTitle": "",
+                    "imgClass": "",
+					"imgAlt" : ""
+                }
+            ]
+		},
+		
+		"wherePage" : {
+			"whereBgURI" : "../img/where_page/margaret/bg.png",
+			"mapData" : "../js/vendor/jvectormap/maps/jquery-jvectormap-au-merc-en.js",
+			"whereInfoDiv" :
+			{
+					"imgLocale" : "Splash",
+					"imgURI": "../img/where_page/margaret/infoDiv/infoDivImgSplash.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgID" : "imgInfo"
+			},
+			"whereInfoDivInfoPoints" :[
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "Brisbane had been in command of the Munster district in Ireland when he was appointed to the governor&#39;s role in November 1820",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointSplash_margaret_1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "Almost three quarters of the entire population of NSW was composed of convicts or former convicts in 1828.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointSplash_margaret_2"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "Although Van Diemen&#39;s Land was just 1/40 the size of NSW, the same number of female convicts were sent to both colonies.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointTAS1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "A strong Irish accent is reputed to have lasted in the district throughout the 19th Century.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointTAS2"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "English law at this time was perceived to be more severe for minor crimes.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointTAS3"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "During the Great Famine, the many Irish who came to the Victoria district primarily worked as whalers, fishermen and farm hands and in townships as labourers and factory workers.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointVIC1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "At this time, Queensland was part of New South Wales. It was established as its own colony on December 10 1859.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointNSW1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "In the mid 1830s, the majority of convicts worked for free settlers and the authorities, often in wretched conditions.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointNSW2"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "Male convicts were issued with prison clothing such as this jacket, made of coarse, cheap wool, which was uncomfortable in the Australian climate.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointNSW3"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "6 Irish political prisoners managed to escape from Fremantle Prison in 1876 aboard a specially&#45;commissioned whaler.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointWA1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "Moore was noted for his sympathetic concern for the Aboriginals, as he learned their language and listened to their stories.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointWA2"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "Most convicts selected for WA had almost finished their sentences and were considered less difficult to control.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointWA3"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "Due to adverse climatic conditions and inhospitable land, the population of WA remained low: convicts were sent to provide much needed cheap labour.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointWA4"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "Instead of granting free land to settlers, as in other colonies, land was sold, and the money used to transport labourers free of charge.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointSA1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "Several North Clare families, prompted by land agent Charles Bagot, settled in SA &#45; Kerin, Canny, Linnane, Davoren all have descendants here today.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointSA2"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "Compared to just 222 from all of Leinster, including Dublin city. Tipperary was next populous with 206 emigrants.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointSA3"
+				}
+			]			
+		},
+		
+		"whyPage":{
+			"whyTitle" : {
+				"imgURI": "../img/why_page/margaret/why_title.png",
+				"imgID" : "whyTitle",
+				"imgClass": "",
+				"imgAlt" : "",
+				"imgTitle": ""
+			},					
+			"whyMinorBgURI" : "../img/why_page/minor_reasons_panel.png",
+			"whyMainImgDiv" : [
+				{
+					"imgURI": "../img/why_page/margaret/main_reasons_margaret/reason1.png",
+					"infoText" : "In 18th century Britain and Ireland, minor crimes were punished harshly, petty crimes could result in serious jail sentences, which in turn resulted in jails overcrowding and overflowing. </br></br> Transportation became a common punishment and around 60,000 convicts were transported to the British colonies in North America in the 17th and 18th centuries. However, when the American Revolutionary War brought an end to that means of disposal, the government looked elsewhere to transport convicts. </br></br> The First Fleet of convict ships arrived off the east coast of Australia in January 1788 and a new British penal colony was established at Sydney Cove."
+				},
+				{
+					"imgURI": "../img/why_page/margaret/main_reasons_margaret/reason2.png",
+					"infoText" : "Following disasterous harvests of 1817 and 1822-'26, in the autumn of 1845, the potato crop in Ireland was obliterated by blight. At this time, the potato was at the core of the average Irish person's diet, often their only food source, and it was common for each person to consume up to 14 pounds of potatoes daily. </br></br> Roughly one million people died during the Great Famine, and another two million people emigrated, it wasn't until 1850 there was a reliable potato crop again. </br></br> Ireland lost between a quarter and a third of her total population to starvation, disease and emigration."
+				},
+				{
+					"imgURI": "../img/why_page/margaret/main_reasons_margaret/reason3.png",
+					"infoText" : "From the 1850s, the discovery of gold in Australia spurred waves of young Irishmen to emigrate. </br></br> Excited letters back to Ireland such as that written in 1852 by an Irish policeman in Australia, instructed people to &quot;<em>lose no time to come to the goldfields. There will be gold had here for ages to come. Let all friends and neighbours come as soon as possible!</em>&quot; </br></br> As a result, the flow of convicts to Australia's colonies soon ended. It then seemed like a foolish idea (and indeed no longer a punishment) to allocate free passage to Australia's rich gold fields to anyone who had committed a crime. "
+				}		
+			],
+			"whyMinorImgDiv" : [
+				{
+					"imgURI": "../img/why_page/margaret/minor_reasons_margaret/minor_reasons_margaret_0.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgID" : ""
+				},
+				{
+					"imgURI": "../img/why_page/margaret/minor_reasons_margaret/minor_reasons_margaret_1.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgID" : ""
+				},
+				{
+					"imgURI": "../img/why_page/margaret/minor_reasons_margaret/minor_reasons_margaret_2.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgID" : ""
+				},
+				{
+					"imgURI": "../img/why_page/margaret/minor_reasons_margaret/minor_reasons_margaret_3.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgID" : ""
+				}
+			],
+			"whyButtonDiv" : [
+				{
+					"imgURI": "../img/why_page/minor_reasons_arrow/backbutton.png",
+					"imgTitle": "",
+					"imgClass": "hover cursor",
+					"imgAlt" : "",
+					"imgID" : "",
+					"divID" : "whyMinorBackButton"
+				},
+				{
+					"imgURI": "../img/why_page/minor_reasons_arrow/nextbutton.png",
+					"imgTitle": "",
+					"imgClass": "hover cursor",
+					"imgAlt" : "",
+					"imgID" : "",
+					"divID" : "whyMinorNextButton"
+				}
+			]
+		}
+	}
+}

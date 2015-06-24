@@ -1,0 +1,935 @@
+{
+    "person": {
+        "whoPage": {
+			"whoBgURI" : "../img/who_page/steve/bg.png",
+			"whoInfoPoint" : 
+			{
+				"imgURI": "../img/general/info_point.png",
+				"imgID": "",
+				"imgClass": "tooltip who_info_point",
+				"imgAlt" : "",
+				"imgTitle": "Although Steve left on his own, his whole family eventualy followed in the following years. "
+			},
+            "whoIconDiv": [
+                {
+                    "imgURI": "../img/who_page/general/house_icon.png",
+                    "imgTitle": "Lived with his family in a 3 bedroom thatched house",
+                    "imgClass": "tooltip",
+					"imgAlt" : ""
+                },
+                {
+                    "imgURI": "../img/who_page/steve/icons/alone_icon.png",
+                    "imgTitle": "Single, living with his family of 11",
+                    "imgClass": "tooltip",
+					"imgAlt" : ""
+                },
+                {
+                    "imgURI": "../img/who_page/steve/icons/ireland_icon.png",
+                    "imgTitle": "Born and raised in the Cladagh, Galway",
+                    "imgClass": "tooltip",
+					"imgAlt" : ""
+                },
+                {
+                    "imgURI": "../img/who_page/steve/icons/job_icon.png",
+                    "imgTitle": "Emigrated after being laid off, forcing him to leave in search of work",
+					"imgClass": "tooltip",
+					"imgAlt" : ""
+                },
+                {
+                    "imgURI": "../img/who_page/steve/icons/mechanic_icon.png",
+                    "imgTitle":"Worked as an apprenticeship mechanic.",                   
+				    "imgClass": "tooltip",
+					"imgAlt" : ""
+                },
+                {
+                    "imgURI": "../img/who_page/general/born_icon.png",
+                    "imgTitle": "Born on May 25, 1920",                   
+				    "imgClass": "tooltip",
+					"imgAlt" : ""
+                }
+            ],
+			
+			
+			"whoTextDiv": {
+				"whoText" : "Coming from entrepreneurial &#34;stock&#34;, <br>Steve&#39;s father Michael ran his own small<br>business in The Claddagh, using a lorry to<br>transport pigs, sheep and flour to and from<br>the town in the first decade of the 20th<br>century. Spotting a gap in the market, his<br>father later attached a seat to his lorry and<br>used it to carry passengers as well.<br><br>Steve trained as a mechanic and began<br>work in Galway. At age 19, Steve&#39;s boss had<br>to make redundancies, and being young<br>and single, Steve was one of the men let<br>go. He left Ireland in 1939 and headed for<br>Coventry, in the county of West Midlands<br>in England.",
+				"textClass" : "whoTextclass"
+			},
+			
+			"whoRulerDiv": [
+				{
+					"imgURI": "../img/who_page/steve/ruler_buttons/rulerButton.png",
+                    "imgTitle": "",
+                    "imgClass": "hover cursor whoRulerDivImgClass",
+					"imgID" : "whoRulerDivImg1",
+					"imgAlt" : ""
+				},
+				{
+					"imgURI": "../img/who_page/steve/ruler_buttons/rulerButton.png",
+                    "imgTitle": "",
+                    "imgClass": "hover cursor whoRulerDivImgClass",
+					"imgID" : "whoRulerDivImg2",
+					"imgAlt" : ""
+				},
+				{
+					"imgURI": "../img/who_page/steve/ruler_buttons/rulerButton.png",
+                    "imgTitle": "",
+                    "imgClass": "hover cursor whoRulerDivImgClass",
+					"imgID" : "whoRulerDivImg3",
+					"imgAlt" : ""
+				},
+				{
+					"imgURI": "../img/who_page/steve/ruler_buttons/rulerButton.png",
+                    "imgTitle": "",
+                    "imgClass": "hover cursor whoRulerDivImgClass",
+					"imgID" : "whoRulerDivImg4",
+					"imgAlt" : ""
+				}
+			],
+			"whoBarchartDiv":{ 
+				"whoBarchartDefaultText" : "TOTAL IRISH EMIGRANTS: ",
+				"whoBarchartDefaultNum": "15,864",
+				"whoBarchartXaxisLabel" : "Provinces",
+				"whoBarchartXaxisLabelClass" : "xlabel",
+				"whoBarchartValues":[
+					{
+						"barClass" : "steveBars steveBar_one barHandle",
+						"barTextValue" : "TOTAL EMIGRANTS:",
+						"barValue" : "1,072"
+					},
+					{
+						"barClass" : "steveBars steveBar_two barHandle",
+						"barTextValue" : "TOTAL EMIGRANTS:",
+						"barValue" : "5,196"			
+					},
+					{
+						"barClass" : "steveBars steveBar_three barHandle",
+						"barTextValue" : "TOTAL EMIGRANTS:",
+						"barValue" : "8,607"
+					},
+					{
+						"barClass" : "steveBars steveBar_four barHandle",
+						"barTextValue" : "TOTAL EMIGRANTS:",
+						"barValue" : "989"			
+					}
+				]
+			},
+			"whoFadeInDiv" :{
+				"type" : "fadeInImage",
+				"location" : "whoFadeInDiv",
+				
+				"imgURI": "../img/who_page/steve/fadeIns/steveFadeIn.png",
+				"imgTitle": "",
+				"imgClass": "",
+				"imgAlt" : "",
+				"imgID" : "whoImgFadeIn",
+				
+				"imgURIOver": "../img/who_page/steve/fadeIns/steveFadeInOver.png",
+				"imgTitleOver": "",
+				"imgClassOver": "",
+				"imgAltOver" : "",
+				"imgIDOver" : "whoImgFadeIn"
+			}
+		},
+		"whenPage":{
+			"whenPinImages" : [
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinTL",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinTC",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinTR",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinBL",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinBC",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinBR",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				}
+			],
+			"whenTitleImg" :{
+				"imgURI": "../img/when_page/steve/whenTitle.png",
+				"imgID" : "whenTitleImg",
+				"imgClass": "",
+				"imgTitle": "",
+				"imgAlt" : ""
+			},
+			"whenText" : [
+				{
+					"location" : "whenDivTopLeft",
+					"heading" : "IRA BOMBINGS",
+					"headingID" : "headingTL2",
+					"headingClass" : "when_text_class",
+					"text" : "An IRA bombing campaign in<br>Britain results in over 200<br>explosions culminating in August<br>with an explosion in Coventry,<br>killing 5 people and injuring 70.",
+					"textID" : "textTL2",
+					"textClass" : "when_text_class"
+				},
+				{
+					"location" : "whenDivTopCenter",
+					"heading" : "THE EMERGENCY",
+					"headingID" : "headingTC2",
+					"headingClass" : "when_text_class",
+					"text" : "WWII officially starts on September 1st, 1939.<br>Ireland was officially neutral during the war, but on September 2,<br>declares an official state of emergency and enacts<br>the Emergency Powers Act the next day.",
+					"textID" : "textTC2",
+					"textClass" : "when_text_class"
+				},
+				{
+					"location" : "whenDivTopRight",
+					"heading" : "",
+					"headingID" : "",
+					"headingClass" : "",
+					"text" : "In 1939, Dave Packard and Bill Hewlett<br>establish Hewlett&#45;Packard &#40;HP&#41; in Packard&#39;s<br>garage with an initial capital investment of<br>&#36;538. They toss a coin to see whose<br>name would be first in the company&#39;s title.",
+					"textID" : "textTR2",
+					"textClass" : "when_text_class"
+				},
+				{
+					"location" : "whenDivBottomLeft",
+					"heading" : "R.I.P",
+					"headingID" : "headingBL2",
+					"headingClass" : "when_text_class",
+					"text" : "Irish poet,<br>William Butler Yeats,<br>dies on<br>January 28, 1939.",
+					"textID" : "textBL2",
+					"textClass" : "when_text_class"
+				},
+				{
+					"location" : "whenDivBottomCenter",
+					"heading" : "NO PLACE LIKE<br>HOME",
+					"headingID" : "headingBC2",
+					"headingClass" : "when_text_class",
+					"text" : "On August 15th, MGM&#39;s<br>classic musical film The<br>Wizard of Oz, starring Judy<br>Garland, premieres at<br>Grauman&#39;s Chinese Theatre<br>in Hollywood.",
+					"textID" : "textBC2",
+					"textClass" : "when_text_class"
+				},
+				{
+					"location" : "whenDivBottomRight",
+					"heading" : "MAHATMA GANDHI FASTS",
+					"headingID" : "headingBR2",
+					"headingClass" : "when_text_class",
+					"text" : "In Bombay on March 3rd, Gandhi begins a<br>fast in protest against British rule in India.",
+					"textID" : "textBR2",
+					"textClass" : "when_text_class"
+				}
+			],
+			"whenImages" : [
+				{
+					"location" : "whenDivTopRight",
+					"imgURI": "../img/when_page/steve/Spinning_Cogs/spin_cogs_1.png",
+					"imgID" : "imgCogTR2_1",
+					"imgClass": "cursor spinners spinRight",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"location" : "whenDivTopRight",
+					"imgURI": "../img/when_page/steve/Spinning_Cogs/spin_cogs_2.png",
+					"imgID" : "imgCogTR2_2",
+					"imgClass": "cursor spinners spinLeft",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"location" : "whenDivTopRight",
+					"imgURI": "../img/when_page/steve/Spinning_Cogs/spin_cogs_3.png",
+					"imgID" : "imgCogTR2_3",
+					"imgClass": "cursor spinners spinRight",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"location" : "whenDivTopRight",
+					"imgURI": "../img/when_page/steve/Spinning_Cogs/spin_cogs_4.png",
+					"imgID" : "imgCogTR2_4",
+					"imgClass": "cursor spinners spinLeft",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"location" : "whenDivTopRight",
+					"imgURI": "../img/when_page/steve/Spinning_Cogs/spin_cogs_5.png",
+					"imgID" : "imgCogTR2_5",
+					"imgClass": "cursor spinners",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"location" : "whenDivBottomCenter",
+					"imgURI": "../img/when_page/steve/wizard_of_oz.png",
+					"imgID" : "imgBC2_1",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				}
+			],
+			"whenInteractions" : [
+				{
+					"type" : "zoomOnImage",
+					"location" : "whenDivBottomLeft",
+					"imgURI": "../img/when_page/steve/WB_Yeats/Yeats.jpg",
+					"imgID" : "imgZoomDivBL2",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": "",
+
+					"imgURIBigImage" : "../img/when_page/steve/WB_Yeats/Yeatsbig.jpg",
+					"imgClassBigImage" : "zoomImage_Yeats",
+					"imgTitleBigImage" : "W.B. Yeats"
+				},
+				{
+					"type" : "audioAssets",
+					"location" : "whenDivBottomCenter",
+					
+					"imgURI": "",
+					"imgID" : "",
+					"imgClass" : "",
+					"imgAlt" : "",
+					"imgTitle" : "",
+					
+					"audioButtonText" : "&#9658; CLICK TO PLAY",
+					"audioButtonID" : "audioTextButtonBC2",
+					"audioButtonClass" : "audioTextButtonClass",
+					
+					"audioID" : "audioIDBC2",
+					"audioSourceOgg" : "../audio/when_audio/steve/OverTheRainbow.ogg",
+					"audioSourceMp3": "../audio/when_audio/steve/OverTheRainbow.mp3"
+				},
+				{
+					"type" : "imageGallery",
+					"location" : "whenDivTopLeft",
+					"mainGalleryDivID" : "whenDivTopLeftGalleryID2_1",
+					"mainGalleryDivClass" : "slideshow when_image_gallery_elements gallery_class",
+					"maskDivClass" : "when_image_mask_ID2_1 when_image_mask_class",
+					"imageGallery" : [
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/steve/IRA_Bombings/ira1.jpg",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : "Shortly after the bombing of Coventry"
+						},
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/steve/IRA_Bombings/ira2.jpg",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : "The bomb site in Coventry in 1939"
+						},
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/steve/IRA_Bombings/ira3.jpg",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : " What the bomb site looks like today"
+						}
+					]
+				},
+				{
+					"type" : "imageGallery",
+					"location" : "whenDivTopCenter",
+					"mainGalleryDivID" : "whenDivTopCenterGalleryID2_2",
+					"mainGalleryDivClass" : "slideshow when_image_gallery_elements gallery_class",
+					"maskDivClass" : "when_image_mask_ID2_2 when_image_mask_class",
+					"imageGallery" : [
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/steve/The_Emergency/TheEmergency1.jpg",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : " Eamon de Valera speaks as Taoiseach, Irish Prime Minister"
+						},
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/steve/The_Emergency/TheEmergency2.jpg",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : "Many food items had to be rationed"
+						},
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/steve/The_Emergency/TheEmergency3.jpg",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : "&quot;Ration Books&quot; were distributed to log one&quot;s purchases "
+						}
+					]
+				},
+				{
+					"type" : "cycleButtons",
+					"location" : "whenDivTopLeft",
+					"buttonImages" : [
+						{
+							"imgURI": "../img/when_page/backbutton.png",
+							"imgTitle": "",
+							"imgClass": "hover cursor",
+							"imgAlt" : "",
+							"imgID" : "",
+							"divID" : "whenDivTLButtonPrevID2_1",
+							"divClass" : "when_image_gallery_elements gallery_button_class"
+						},
+						{
+							"imgURI": "../img/when_page/nextbutton.png",
+							"imgTitle": "",
+							"imgClass": "hover cursor",
+							"imgAlt" : "",
+							"imgID" : "",
+							"divID" : "whenDivTLButtonNextID2_1",
+							"divClass" : "when_image_gallery_elements gallery_button_class"
+						}
+					]
+				},
+				{
+					"type" : "cycleButtons",
+					"location" : "whenDivTopCenter",
+					"buttonImages" : [
+						{
+							"imgURI": "../img/when_page/backbutton.png",
+							"imgTitle": "",
+							"imgClass": "hover cursor",
+							"imgAlt" : "",
+							"imgID" : "",
+							"divID" : "whenDivTCButtonPrevID2_2",
+							"divClass" : "when_image_gallery_elements gallery_button_class"
+						},
+						{
+							"imgURI": "../img/when_page/nextbutton.png",
+							"imgTitle": "",
+							"imgClass": "hover cursor",
+							"imgAlt" : "",
+							"imgID" : "",
+							"divID" : "whenDivTCButtonNextID2_2",
+							"divClass" : "when_image_gallery_elements gallery_button_class"
+						}
+					]
+				},
+				{
+					"type" : "videoAssets",
+					"location" : "whenDivBottomRight",
+					"posterURI": "../img/when_page/steve/ghandi_video_poster.jpg",				
+					"videoID" : "videoIDBR2",
+					"videoSources" : [
+						{
+							"mimeType": "video/mp4",
+							"videoSource": "../video/when_video/steve/when_steve_ghandi_video_mp4.mp4"
+						},
+						{
+							"mimeType": "video/ogg",
+							"videoSource" : "../video/when_video/steve/when_steve_ghandi_video_ogv.ogv"
+						},
+						{
+							"mimeType": "video/webm",
+							"videoSource" : "../video/when_video/steve/when_steve_ghandi_video_webm.webm"
+						}
+					]
+				}
+			]
+		},
+
+		"whatPage" :{
+			"whatLuggageClass": "what_luggage_steve",
+			"whatBg" : {
+				"imgURI" : "../img/what_page/steve/suitcase.png",
+				"imgWidth" : "534px",
+				"imgHeight" : "370px"
+			},
+			"whatluggageClasp" : {
+				"imgURI" : "../img/what_page/steve/suitcase_clasp.png",
+				"imgID" : "suitcase_clasp_ID_steve",
+				"imgAlt" :"",
+				"imgTitle":""
+			},
+			"whatTitleDiv" :{
+				"imgURI": "../img/what_page/what_description.png",
+				"imgTitle": "",
+				"imgClass": "",
+				"imgAlt" : ""
+			},
+			"whatTextbox" :{
+				"imgURI": "../img/what_page/what_textbox.png",
+				"imgClass": "",
+				"imgID": "textboxDiv",
+				"imgAlt" : "",
+				"imgTitle": ""
+			},
+			"whatTextboxInfo":[
+				{
+					"headingText" : "FIND OUT MORE",
+					"text" : "Pack the items <br> into the suitcase to",
+					"divID" : "textbox_ID1_0",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "BIKE",
+					"text" : "Steve would have loved to bring his bike with him on the journey, but he couldn&#39;t afford to get a private cabin on the ferry.",
+					"divID" : "textbox_ID2_1",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "IDENTITY CARD",
+					"text" : "An Irish identity card was issued to meet the request of British authorities that all passengers carry official identification.",
+					"divID" : "textbox_ID2_2",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "SOCK SUSPENDERS",
+					"text" : "Steve packed sock suspenders to accompany his newly-bought socks, as before elastication, socks would regularly slide down.",
+					"divID" : "textbox_ID2_3",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "TIES",
+					"text" : "Steve packed plenty of ties, as he &quot;always wore ties&quot;. This also aided his effort to look more presentable in order find a job",
+					"divID" : "textbox_ID2_4",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "SOCKS",
+					"text" : "The year before his departure, in 1938, nylon socks were invented. Steve bought several pairs of new socks for the occasion.",
+					"divID" : "textbox_ID2_5",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "HOLY WATER",
+					"text" : "Steve&#39;s mum sent with him holy water from the local church in a lemonade bottle. His mum later sent Lourdes water over as well. ",
+					"divID" : "textbox_ID2_6",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "SHIRT",
+					"text" : "Steve brought 3 or 4 shirts with him; as he only had what little space was provided by his cardboard suitcase.",
+					"divID" : "textbox_ID2_7",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "You're Packed!",
+					"text" : "Close the case and continue on your journey",
+					"divID" : "textbox_ID2_End",
+					"divClass" : "what_textBox_class"
+				}
+			],
+			"itemContainerDiv1" : [
+				{
+					"imgURI": "../img/what_page/steve/steve_what_prohibited_bike.png",
+					"imgTitle": "",
+					"imgClass": "hover cursor",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID2_1",
+					"imgLiClass" : "notDraggable"
+				},
+				{
+					"imgURI": "../img/what_page/steve/steve_what_ID.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID2_2",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/steve/steve_what_braces.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID2_3",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/steve/steve_what_shirt.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID2_7",
+					"imgLiClass" : "draggableItems"
+				}
+			],
+			"itemContainerDiv2" :[
+				{
+					"imgURI": "../img/what_page/steve/steve_what_tie.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID2_4",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/steve/steve_what_socks.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID2_5",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/steve/steve_what_bottle.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID2_6",
+					"imgLiClass" : "draggableItems"
+				}
+			]
+		},
+		
+		"howPage" :{
+			"howBgURI" : "../img/how_page/steve/bg.png",
+			
+			"howTextDiv": {
+				"howText": "Steve&#39;s journey started with a train from Galway to Dublin, followed by a ferry in Dun Laoghaire for Holyhead.<br><br>This is a well-trodden track for generations of Irish migrants, originating with the official postal service from London to Dublin, and later developing into a mail-coach service that also carried passengers. The usual ferries were The Hibernian and The Princess Maud; converted cattle ships with flat bottoms, which made them unstable in rough weather. Sailing on the Irish Sea at night, in an overcrowded boat, was an exceedingly risky undertaking. The ships had no stabilizers and on a wild night they were said to be unbearable, with a reputation for rolling mercilessly.<br><br>Once Steve made it safely to Holyhead, he boarded a train bound for Coventry. For many Irish migrants, the route proved a depressing introduction to England.",
+				"textClass": "howText2"
+			},
+			"howTransportButtons" : [
+				{
+					"transportButtonWrapperID" : "how_transport_button_wrapper_ID1_steve",
+					"transportButtonWrapperClass" : "how_transport_button_wrapper",
+					"transportButtonID" : "how_transport_button_ID1_steve", 
+					"transportButtonClass" : "how_transport_button"
+				},
+				{
+					"transportButtonWrapperID" : "how_transport_button_wrapper_ID2_steve",
+					"transportButtonWrapperClass" : "how_transport_button_wrapper",
+					"transportButtonID" : "how_transport_button_ID2_steve", 
+					"transportButtonClass" : "how_transport_button"
+				},
+				{
+					"transportButtonWrapperID" : "how_transport_button_wrapper_ID3_steve",
+					"transportButtonWrapperClass" : "how_transport_button_wrapper",
+					"transportButtonID" : "how_transport_button_ID3_steve", 
+					"transportButtonClass" : "how_transport_button"
+				},
+				{
+					"transportButtonWrapperID" : "how_transport_button_wrapper_ID4_steve",
+					"transportButtonWrapperClass" : "how_transport_button_wrapper",
+					"transportButtonID" : "how_transport_button_ID4_steve", 
+					"transportButtonClass" : "how_transport_button"
+				}
+			],
+			"howTransportButtonImages": [
+				{
+					"imgURI": "../img/how_page/steve/transport_images/how_steve_button_image_1.png",
+                    "imgID" : "how_transport_button_image_ID1_steve",
+					"imgClass": "how_transport_button_images cursor",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/how_page/steve/transport_images/how_steve_button_image_2.png",
+                    "imgID" : "how_transport_button_image_ID2_steve",
+					"imgClass": "how_transport_button_images cursor",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/how_page/steve/transport_images/how_steve_button_image_3.png",  
+                    "imgID" : "how_transport_button_image_ID3_steve",
+					"imgClass": "how_transport_button_images cursor",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/how_page/steve/transport_images/how_steve_button_image_4.png",
+                    "imgID" : "how_transport_button_image_ID4_steve",
+					"imgClass": "how_transport_button_images cursor",
+					"imgAlt" : "",
+					"imgTitle": ""
+					
+				}
+			],
+			"howAudioDiv": {
+				"audioButtonText" : "&#9658; CLICK TO PLAY",
+				"audioButtonID" : "how_audio_Text_Button_2_1",
+				"audioID" : "audioID_2_1",
+				"audioButtonClass" : "audioTextButtonClass",
+				"audioSourceOgg" : "../audio/how_audio/steve/steve_audio_ogg.ogg",
+				"audioSourceMp3": "../audio/how_audio/steve/steve_audio_mp3.mp3"
+			},
+			
+			"howAccordionDiv": [
+                {
+                    "accordionTitle" : "Passengers",
+					"accordionTitleClass" : "accordion_title_class",
+					"accordionContentDivClass": "accordionContentDiv cursor openAcc",
+					"imgURI": "../img/how_page/steve/info_bar/passengers.png",
+                    "imgTitle": "",
+                    "imgClass": "",
+					"imgAlt" : ""
+                },
+                {
+					"accordionTitle" : "Cost",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+                    "imgURI": "../img/how_page/steve/info_bar/cost.png",
+                    "imgTitle": "",
+                    "imgClass": "",
+					"imgAlt" : ""
+                },
+                {
+					"accordionTitle" : "Distance",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+                    "imgURI": "../img/how_page/steve/info_bar/distance.png",
+                    "imgTitle": "",
+                    "imgClass": "",
+					"imgAlt" : ""
+                },
+				{
+					"accordionTitle" : "Duration",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+                    "imgURI": "../img/how_page/steve/info_bar/duration.png",
+                    "imgTitle":"",
+                    "imgClass": "",
+					"imgAlt" : ""
+                },
+                {
+					"accordionTitle" : "Length",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+                    "imgURI": "../img/how_page/steve/info_bar/length.png",
+                    "imgTitle": "",
+                    "imgClass": "",
+					"imgAlt" : ""
+                },
+				{
+					"accordionTitle" : "Weight",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+                    "imgURI": "../img/how_page/steve/info_bar/weight.png",
+                    "imgTitle": "",
+                    "imgClass": "",
+					"imgAlt" : ""
+                }
+            ]
+		},
+		
+		"wherePage" : {
+			"whereBgURI" : "../img/where_page/steve/bg.png",
+			"mapData" : "../js/vendor/jvectormap/maps/jquery-jvectormap-uk-mill-en.js",
+			"whereInfoDiv" : {
+				"imgLocale" : "Splash",
+				"imgURI": "../img/where_page/steve/infoDiv/infoDivImgSplash_steve.png",
+				"imgTitle": "",
+				"imgClass": "",
+				"imgAlt" : "",
+				"imgID" : "imgInfo"
+			},
+			"whereInfoDivInfoPoints" :[
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "In a 1938 Irish Times article, Chamberlain was applauded for his attempts to appease Hitler and avoid a world war.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointSplash_steve_1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "This placed Irish on the same footing as French and German.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPoint0_steve_1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "This was said of 1960&#39;s Luton, where many Irish arrived both direct from Ireland, and also in large numbers from other British towns and cities whose heavy industries had begun to decline",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPoint1_steve_1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "Birmingham hosts the 3rd largest St. Patrick&#39;s day parade in the world, after just Dublin and New York.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPoint2_steve_1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "Like other industrial centres in Britain, Birmingham had attracted a large Irish community since the early 19th century.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPoint2_steve_2"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "Due to the influx of Irish and Jewish, the immigrant population was largely named as the cause of Manchester&#39;s unemployed in the 30s.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPoint3_steve_1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "&#34;Generally the children and grandchildren of the Irish&#45;born parents consider themselves just as much Irish as those born on &#39;the old sod&#39; itself&#34;",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPoint3_steve_2"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "Carey transferred from St.James Gate to Manchester United in 1936, for a then record Irish transfer fee of &#163;250. He went on to spend 16 successful years at Old Trafford, including 7 seasons as captain.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPoint3_steve_3"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "Manchester retained its strong Irish connections, and today hosts one of the UK&#39;s largest St Patrick&#39;s Day parades.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPoint3_steve_4"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "Many Irish used the Liverpool port simply as a stop-off point, moving to the USA or to other industrial centers.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPoint4_steve_1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "O&#39;Connor played a major role in the development of Anglo-Irish relations in Liverpool, but also in Britain as a whole.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPoint4_steve_2"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "The Liverpool Review stated this in an article about Irish immigration in 1931.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPoint4_steve_3"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "On February 6th, 1939, the Bureau was opened in order to tackle the unrestricted entry of immigrants from Ireland into Liverpool.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPoint4_steve_4"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "The aftermath led to tension between locals and the Irish community and there were calls for all Irish workers to be sacked.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPoint5_steve_1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "This is 5% of the total population, and reflects the many people who settled permanently in Coventry following the post-war influx of Irish migrants into the city.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPoint5_steve_2"
+				}
+			]			
+		},
+		
+		"whyPage":{
+			"whyTitle" : {
+				"imgURI": "../img/why_page/steve/why_title.png",
+				"imgID" : "whyTitle",
+				"imgClass": "",
+				"imgAlt" : "",
+				"imgTitle": ""
+			},					
+			"whyMinorBgURI" : "../img/why_page/minor_reasons_panel.png",
+			"whyMainImgDiv" : [
+				{
+					"imgURI": "../img/why_page/steve/main_reasons_steve/reason1.png",
+					"infoText" : "In the period of 1900-1950, Britain overtook the United States as the main destination of emigrants from Ireland. </br> </br> The main factor impacting this reorientation of emigration flow was the fallout from the Wall Street Crash on October 24, 1929. The Crash and the Depression that followed largely dashed the idea of the American Dream in Ireland and a great majority of emigrants made the shorter but less promising crossing of the Irish Sea. &quot;Returning Yanks&quot;, or American Irish returning to Ireland was another phenomenon of the time. As reported by the Donegal Democrat, &quot;The wild geese are returning, but their footsteps are slow and their faces are haggard. They are here because they can no longer get bread or work in the land of their adoption.&quot;"
+				},
+				{
+					"imgURI": "../img/why_page/steve/main_reasons_steve/reason2.png",
+					"infoText" : "Although Ireland adopted a policy of neutrality during World War II, officially under way in 1939, the increased demand for labour in Britain encouraged volunteers from Ireland to fill the need. </br> </br>About 120,000 Irish men and women were recruited to the British armed forces&#59; 50,000 from Northern Ireland and 70,000 from the neutral South. The number of Irish workers arriving in Britain for employment in the expanding wartime economy was even greater than those recruited to the forces. Women especially were urged to move to Britain, and by the end of the war the number of Irish women in Britain in nursing, factory work and clerical work had drastically risen while the number in domestic work had fallen."
+				},
+				{
+					"imgURI": "../img/why_page/steve/main_reasons_steve/reason3.png",
+					"infoText" : "The population of the Irish Republic declined continuously from the middle of the nineteenth century until 1961, however political violence resulted in a particularly sharp dip between 1911 and 1926. After the bloodshed of the 1916 Easter Rising, and the proclamation of an Irish Republic in 1919, the Anglo-Irish Treaty was signed in 1921, transferring to 26 of the Irish counties complete independence in its domestic affairs. </br> </br>The consequent withdrawal of the British army and other public servants, many of whom were Protestants, led to a massive decline in the Protestant community in Southern Ireland. Additionally over 60,000 Protestants not directly connected with the British administration left the Irish Free State between 1911 and 1926. Some 23,000 Northern Catholics, otherwise firmly under British control, also emigrated." 
+				}		
+			],
+			"whyMinorImgDiv" : [
+				{
+					"imgURI": "../img/why_page/steve/minor_reasons_steve/minor_reasons_steve_0.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgID" : ""
+				},
+				{
+					"imgURI": "../img/why_page/steve/minor_reasons_steve/minor_reasons_steve_1.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgID" : ""
+				},
+				{
+					"imgURI": "../img/why_page/steve/minor_reasons_steve/minor_reasons_steve_2.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgID" : ""
+				},
+				{
+					"imgURI":"../img/why_page/steve/minor_reasons_steve/minor_reasons_steve_3.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgID" : ""
+				}
+			],
+			"whyButtonDiv" : [
+				{
+					"imgURI": "../img/why_page/minor_reasons_arrow/backbutton.png",
+					"imgTitle": "",
+					"imgClass": "hover cursor",
+					"imgAlt" : "",
+					"imgID" : "",
+					"divID" : "whyMinorBackButton"
+				},
+				{
+					"imgURI": "../img/why_page/minor_reasons_arrow/nextbutton.png",
+					"imgTitle": "",
+					"imgClass": "hover cursor",
+					"imgAlt" : "",
+					"imgID" : "",
+					"divID" : "whyMinorNextButton"
+				}
+			]
+		}
+		
+	}
+}

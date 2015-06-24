@@ -1,0 +1,888 @@
+{
+    "person": {
+        "whoPage": {
+			"whoBgURI" : "../img/who_page/joseph/bg.png",
+			"whoInfoPoint" : 
+			{
+				"imgURI": "../img/general/info_point.png",
+				"imgID": "",
+				"imgClass": "tooltip who_info_point",
+				"imgAlt" : "",
+				"imgTitle": "Joe was listed on the ships manifest as a 20 year old, single male, in good mental and physical health, able to read and write. Joe and Fanny wore their finest clothes to better their chances of employment on arrival."
+			},
+            "whoIconDiv": [
+                {
+                    "imgURI": "../img/who_page/general/house_icon.png",
+                    "imgTitle": "From a family of laborers, his father worked as a gardner and steward.",
+                    "imgClass": "tooltip",
+					"imgAlt" : ""
+                },
+				{
+                    "imgURI": "../img/who_page/general/born_icon.png",
+                    "imgTitle": "Born at Knockanotish, Ballinrobe to John Walsh and Fanny Feeney on January 23, 1873.",
+                    "imgClass": "tooltip",
+					"imgAlt" : ""
+                },
+				{
+                    "imgURI": "../img/who_page/joseph/icons/family_icon.png",
+                    "imgTitle": "One of 12 children, Joseph was the seventh son of a seventh son.",
+                    "imgClass": "tooltip",
+					"imgAlt" : ""
+                },
+                {
+                    "imgURI": "../img/who_page/joseph/icons/ireland_icon.png",
+                    "imgTitle": "Lived in the townland Carrownalecka and Knockanotish in the parish of Ballinrobe, County Mayo.",
+                    "imgClass": "tooltip",
+					"imgAlt" : ""
+                },
+                
+                {
+                    "imgURI": "../img/who_page/joseph/icons/key_icon.png",
+                    "imgTitle": "Emigrated in search of opportunities in the new land.",
+					"imgClass": "tooltip",
+					"imgAlt" : ""
+                },
+                {
+                    "imgURI": "../img/who_page/joseph/icons/job_icon.png",
+                    "imgTitle": "At the time of emigration, both were unemployed and seeking jobs.",                   
+				    "imgClass": "tooltip",
+					"imgAlt" : ""
+                }
+            ],
+			
+			
+			"whoTextDiv": {
+				"whoText" : "Two years after the death of his mother<br>and only two months after the death of his<br>father, Joseph and his sister Fanny<br>emigrated to the United States.<br><br>Joseph and Fanny already had at least two<br>brothers in America at the time of their<br>immigration, and they listed their brother<br>Michael as their nearest relative in the US,<br>located at 109 East 76th St, NYC. Although<br>they paid their own fare, the siblings were<br>listed as having only $2.00 in their<br>possession on arrival. Eventually, at least<br>eight of the Walsh siblings immigrated to<br>New York City.",
+				"textClass" : "whoTextclass"
+			},
+			
+			"whoRulerDiv": [
+				{
+					"imgURI": "../img/who_page/joseph/ruler_buttons/rulerButton.png",
+                    "imgTitle": "",
+                    "imgClass": "hover cursor whoRulerDivImgClass",
+					"imgID" : "whoRulerDivImg1",
+					"imgAlt" : ""
+				},
+				{
+					"imgURI": "../img/who_page/joseph/ruler_buttons/rulerButton.png",
+                    "imgTitle": "",
+                    "imgClass": "hover cursor whoRulerDivImgClass",
+					"imgID" : "whoRulerDivImg2",
+					"imgAlt" : ""
+				},
+				{
+					"imgURI": "../img/who_page/joseph/ruler_buttons/rulerButton.png",
+                    "imgTitle": "",
+                    "imgClass": "hover cursor whoRulerDivImgClass",
+					"imgID" : "whoRulerDivImg3",
+					"imgAlt" : ""
+				},
+				{
+					"imgURI": "../img/who_page/joseph/ruler_buttons/rulerButton.png",
+                    "imgTitle": "",
+                    "imgClass": "hover cursor whoRulerDivImgClass",
+					"imgID" : "whoRulerDivImg4",
+					"imgAlt" : ""
+				}
+			],
+			"whoBarchartDiv":{ 
+				"whoBarchartDefaultText" : "IRISH EMIGRANTS PER 1000: ",
+				"whoBarchartDefaultNum": "56",
+				"whoBarchartXaxisLabel" : "Years",
+				"whoBarchartXaxisLabelClass" : "who_xlabel_joseph",
+				"whoBarchartValues":[
+					{
+						"barClass" : "josephBars josephBar_one barHandle",
+						"barTextValue" : "TOTAL EMIGRANTS 1850: ",
+						"barValue" : "26"
+					},
+					{
+						"barClass" : "josephBars josephBar_two barHandle",
+						"barTextValue" : "TOTAL EMIGRANTS 1870: ",
+						"barValue" : "16"			
+					},
+					{
+						"barClass" : "josephBars josephBar_three barHandle",
+						"barTextValue" : "TOTAL EMIGRANTS 1890: ",
+						"barValue" : "12"
+					},
+					{
+						"barClass" : "josephBars josephBar_four barHandle",
+						"barTextValue" : "TOTAL EMIGRANTS 1910: ",
+						"barValue" : "8"			
+					}
+				]
+			},
+			"whoFadeInDiv" :{
+				"type" : "fadeInImage",
+				"location" : "whoFadeInDiv",
+				
+				"imgURI": "../img/who_page/joseph/fadeIns/josephFadeIn.png",
+				"imgTitle": "",
+				"imgClass": "",
+				"imgAlt" : "",
+				"imgID" : "whoImgFadeIn",
+				
+				"imgURIOver": "../img/who_page/joseph/fadeIns/josephFadeInOver.png",
+				"imgTitleOver": "",
+				"imgClassOver": "",
+				"imgAltOver" : "",
+				"imgIDOver" : "whoImgFadeIn"
+			}
+		},
+		"whenPage":{
+			"whenPinImages" : [
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinTL",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinTC",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinTR",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinBL3",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinBC",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/when_page/when-pin.png",
+					"imgID" : "whenPinBR",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				}
+			],
+			"whenTitleImg" :{
+				"imgURI": "../img/when_page/joseph/whenTitle.png",
+				"imgID" : "whenTitleImg",
+				"imgClass": "",
+				"imgTitle": "",
+				"imgAlt" : ""
+			},
+			"whenText" : [
+				{
+					"location" : "whenDivTopLeft",
+					"heading" : "ROLL UP, ROLL UP!",
+					"headingID" : "headingTL3",
+					"headingClass" : "when_text_class",
+					"text" : "Thomas Edison copyrights his first<br>motion picture -&quot;Edison<br>Kinetoscopic Record of a Sneeze&quot;,<br>on January 7, 1894.",
+					"textID" : "textTL3",
+					"textClass" : "when_text_class"
+				},
+				{
+					"location" : "whenDivTopCenter",
+					"heading" : "LET THEM DRINK TEA!",
+					"headingID" : "headingTC3",
+					"headingClass" : "when_text_class",
+					"text" : "In 1894, Bewley&#39;s open Ireland&#39;s first cafe on Georges Street, Dublin.<br>This is followed by a second cafe on Westmoreland Street two years<br> later. The city&#39;s tram network is at its peak and covers 106km.",
+					"textID" : "textTC3",
+					"textClass" : "when_text_class"
+				},
+				{
+					"location" : "whenDivTopRight",
+					"heading" : "",
+					"headingID" : "",
+					"headingClass" : "when_text_class",
+					"text" : "In 1894, the first train on the Achill railway<br>carries the bodies of victims of the Clew<br>Bay Drowning. The tragedy occurred<br>when a boat overturned in Clew bay,<br>drowning thirty two young people.",
+					"textID" : "textTR3",
+					"textClass" : "when_text_class"
+				},
+				{
+					"location" : "whenDivBottomLeft",
+					"heading" : "A<br>BREAKTHROUGH<br>IN GLASS!",
+					"headingID" : "headingBL3",
+					"headingClass" : "when_text_class",
+					"text" : "On March 12th,<br>Coca-Cola is first sold in<br>bottles. Until this point,<br>the beverage was<br>exclusively available at<br>soda-fountain counters.",
+					"textID" : "textBL3",
+					"textClass" : "when_text_class"
+				},
+				{
+					"location" : "whenDivBottomCenter",
+					"heading" : "&#34;I&#39;VE BEEN<br>WORKING ON<br>THE RAILROAD&#34; ",
+					"headingID" : "headingBC3",
+					"headingClass" : "when_text_class",
+					"text" : "The first published version<br>appears as &quot;Levee Song&quot; in<br>a book of Princeton<br>University songs,<br>published in 1894.",
+					"textID" : "textBC3",
+					"textClass" : "when_text_class"
+				},
+				{
+					"location" : "whenDivBottomRight",
+					"heading" : "BUBONIC PLAGUE OUTBREAK",
+					"headingID" : "headingBR3",
+					"headingClass" : "when_text_class",
+					"text" : "In May, the Bubonic Plague breaks out in an<br>area of Hong Kong, killing 2,552 people<br>over the course of the year.",
+					"textID" : "textBR3",
+					"textClass" : "when_text_class"
+				}
+			],
+			"whenImages" : [
+				{
+					"location" : "whenDivBottomCenter",
+					"imgURI": "../img/when_page/joseph/static_images/railroad_worker.png",
+					"imgID" : "imgBC3_1",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": ""
+				}
+			],
+			"whenInteractions" : [
+				{
+					"type" : "zoomOnImage",
+					"location" : "whenDivTopRight",
+					"imgURI": "../img/when_page/joseph/memorial_zoom/memorial_zoom.png",
+					"imgID" : "imgZoomDivTR3",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgTitle": "",
+
+					"imgURIBigImage" : "../img/when_page/joseph/memorial_zoom/memorial_zoom_big.png",
+					"imgClassBigImage" : "zoomImage_memorial_zoom",
+					"imgTitleBigImage" : "Memorial"
+				},
+				{
+					"type" : "fadeInImage",
+					"location" : "whenDivBottomLeft",
+					
+					"imgURI": "../img/when_page/joseph/coca_cola_bottle/when_cola.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgID" : "imgFadeBL3",
+					
+					"imgURIOver": "../img/when_page/joseph/coca_cola_bottle/when_colaover.png",
+					"imgTitleOver": "",
+					"imgClassOver": "",
+					"imgAltOver" : "",
+					"imgIDOver" : "imgFadeBL3"
+				},
+				{
+					"type" : "audioAssets",
+					"location" : "whenDivBottomCenter",
+					
+					"imgURI": "",
+					"imgID" : "",
+					"imgClass" : "",
+					"imgAlt" : "",
+					"imgTitle" : "",
+					
+					"audioButtonText" : "&#9658; CLICK TO PLAY",
+					"audioButtonID" : "audioTextButtonBC3",
+					"audioButtonClass" : "audioTextButtonClass",
+					
+					"audioID" : "audioIDBC3",
+					"audioSourceOgg" : "../audio/when_audio/joseph/working_on_the_railroad_ogg.ogg",
+					"audioSourceMp3": "../audio/when_audio/joseph/working_on_the_railroad_mp3.mp3"
+				},
+				{
+					"type" : "imageGallery",
+					"location" : "whenDivTopCenter",
+					"mainGalleryDivID" : "whenDivTopCenterGalleryID3_1",
+					"mainGalleryDivClass" : "slideshow when_image_gallery_elements gallery_class",
+					"maskDivClass" : "when_image_mask_ID3_1 when_image_mask_class",
+					"imageGallery" : [
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/joseph/bewleys/joseph_bewleys1.png",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : "Westmoreland Street c1896"
+						},
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/joseph/bewleys/joseph_bewleys2.png",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : "Phoenix Park Gate c1899"
+						},
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/joseph/bewleys/joseph_bewleys3.png",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : "Dame Street c1910"
+						},
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/joseph/bewleys/joseph_bewleys4.png",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : "The horse-drawn no.21 to Inchicore, at Christchurch"
+						}
+					]
+				},
+				{
+					"type" : "imageGallery",
+					"location" : "whenDivBottomRight",
+					"mainGalleryDivID" : "whenDivBottomRightGalleryID3_2",
+					"mainGalleryDivClass" : "slideshow when_image_gallery_elements gallery_class",
+					"maskDivClass" : "when_image_mask_ID3_2 when_image_mask_class",
+					"imageGallery" : [
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/joseph/plague/plague1.png",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : "Engraving of Black Death victims"
+						},
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/joseph/plague/plague2.png",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : "Glass Works used as a plague hospital"
+						},
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/joseph/plague/plague3.png",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : "Cleaning the streets in Tai-Ping"
+						},
+						{
+							"imageDivWrapperClass" : "view view-first",
+							"imgURI": "../img/when_page/joseph/plague/plague4.png",
+							"imgTitle": "",
+							"imgClass": "",
+							"imgAlt" : "",
+							"imgID" : "",
+							"maskText" : "Rebuilding Tai Ping Sham with better facilities"
+						}
+					]
+				},
+				{
+					"type" : "cycleButtons",
+					"location" : "whenDivTopCenter",
+					"buttonImages" : [
+						{
+							"imgURI": "../img/when_page/backbutton.png",
+							"imgTitle": "",
+							"imgClass": "hover cursor",
+							"imgAlt" : "",
+							"imgID" : "",
+							"divID" : "whenDivTCButtonPrevID3_1",
+							"divClass" : "when_image_gallery_elements gallery_button_class"
+						},
+						{
+							"imgURI": "../img/when_page/nextbutton.png",
+							"imgTitle": "",
+							"imgClass": "hover cursor",
+							"imgAlt" : "",
+							"imgID" : "",
+							"divID" : "whenDivTCButtonNextID3_1",
+							"divClass" : "when_image_gallery_elements gallery_button_class"
+						}
+					]
+				},
+				{
+					"type" : "cycleButtons",
+					"location" : "whenDivBottomRight",
+					"buttonImages" : [
+						{
+							"imgURI": "../img/when_page/backbutton.png",
+							"imgTitle": "",
+							"imgClass": "hover cursor",
+							"imgAlt" : "",
+							"imgID" : "",
+							"divID" : "whenDivBRButtonPrevID3_2",
+							"divClass" : "when_image_gallery_elements gallery_button_class"
+						},
+						{
+							"imgURI": "../img/when_page/nextbutton.png",
+							"imgTitle": "",
+							"imgClass": "hover cursor",
+							"imgAlt" : "",
+							"imgID" : "",
+							"divID" : "whenDivBRButtonNextID3_2",
+							"divClass" : "when_image_gallery_elements gallery_button_class"
+						}
+					]
+				},
+				{
+					"type" : "videoAssets",
+					"location" : "whenDivTopLeft",
+					"posterURI": "../img/when_page/joseph/static_images/video_poster.png",				
+					"videoID" : "videoIDBR3",
+					"videoSources" : [
+						{
+							"mimeType": "video/mp4",
+							"videoSource": "../video/when_video/joseph/edison_kinetoscope_record_of_a_sneeze_1894_mp4.mp4"
+						},
+						{
+							"mimeType": "video/ogg",
+							"videoSource" : "../video/when_video/joseph/edison_kinetoscope_record_of_a_sneeze_1894_ogv.ogv"
+						},
+						{
+							"mimeType": "video/webm",
+							"videoSource" : "../video/when_video/joseph/edison_kinetoscope_record_of_a_sneeze_1894_webm.webm"
+						}
+					]
+				}
+			]
+		},
+
+		"whatPage" :{
+			"whatLuggageClass": "what_luggage_joseph",
+			"whatBg" : {
+				"imgURI" : "../img/what_page/joseph/suitcase.png",
+				"imgWidth" : "534px",
+				"imgHeight" : "370px"
+			},
+			"whatluggageClasp" : {
+				"imgURI" : "../img/what_page/joseph/suitcase_clasp.png",
+				"imgID" : "suitcase_clasp_ID_joseph",
+				"imgAlt" :"",
+				"imgTitle":""
+			},
+			"whatTitleDiv" :{
+				"imgURI": "../img/what_page/what_description.png",
+				"imgTitle": "",
+				"imgClass": "",
+				"imgAlt" : ""
+			},
+			"whatTextbox" :{
+				"imgURI": "../img/what_page/what_textbox.png",
+				"imgClass": "",
+				"imgID": "textboxDiv",
+				"imgAlt" : "",
+				"imgTitle": ""
+			},
+			"whatTextboxInfo":[
+				{
+					"headingText" : "FIND OUT MORE",
+					"text" : "Pack the items <br> into the suitcase to",
+					"divID" : "textbox_ID1_0",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "BIBLE",
+					"text" : "Emigrants had little space for personal effects, however occasionally they fit in a household or religious keepsake.",
+					"divID" : "textbox_ID3_1",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "BREAD",
+					"text" : "Brown bread is an Irish staple&#59; often made daily in the home, bread was popular to be sent on board for the journey",
+					"divID" : "textbox_ID3_2",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "TICKET",
+					"text" : "Joe and Fanny were listed on the ship&#39;s manifest as paying for their own fare.",
+					"divID" : "textbox_ID3_3",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "SHOES",
+					"text" : "The emigrants were allowed only a small suitcase or bundle to be put in steerage, therefore there was little space for luxuries like extra shoes. ",
+					"divID" : "textbox_ID3_4",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "FAMILY PHOTO",
+					"text" : "Unlike most emigrants, Joe was lucky to travel alongside family, however he still left his remaining family behind. ",
+					"divID" : "textbox_ID3_5",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "FRIEZE",
+					"text" : "Customs noted Italians brought wine and fruits, English tweed, and Irish frieze&#59; a coarse woollen plain weave cloth.",
+					"divID" : "textbox_ID3_6",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "ROSARY BEADS",
+					"text" : "The Irish emigrants were recorded as bringing more personal effects than other emigrants, such as objects of sentimental interest.",
+					"divID" : "textbox_ID3_7",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "BROTHER'S ADDRESS",
+					"text" : "Joe and Fanny followed their brother Michael over; he was living at 109 East 76th Street, New York City.",
+					"divID" : "textbox_ID3_8",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "MONEY",
+					"text" : " The two were listed as having only $2.00 cash in their possession.",
+					"divID" : "textbox_ID3_9",
+					"divClass" : "what_textBox_class"
+				},
+				{
+					"headingText" : "You're Packed!",
+					"text" : "Close the case and continue on your journey",
+					"divID" : "textbox_ID3_End",
+					"divClass" : "what_textBox_class"
+				}
+			],
+			"itemContainerDiv1" : [
+				{
+					"imgURI": "../img/what_page/joseph/joseph_what_bible.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID3_1",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/joseph/joseph_what_bread.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID3_2",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/joseph/joseph_what_ticket.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID3_3",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/joseph/joseph_what_prohibited_shoes.png",
+					"imgTitle": "",
+					"imgClass": "cursor hover",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID3_4",
+					"imgLiClass" : "notDraggable"
+				},
+				{
+					"imgURI": "../img/what_page/joseph/joseph_what_picture.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID3_5",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/joseph/joseph_what_blanket.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID3_6",
+					"imgLiClass" : "draggableItems"
+				}
+			],
+			"itemContainerDiv2" :[
+				{
+					"imgURI": "../img/what_page/joseph/joseph_what_rosaryBeads.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID3_7",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/joseph/joseph_what_note.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID3_8",
+					"imgLiClass" : "draggableItems"
+				},
+				{
+					"imgURI": "../img/what_page/joseph/joseph_what_money.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgLiID" : "what_image_ID3_9",
+					"imgLiClass" : "draggableItems"
+				}
+			]
+		},
+		
+		"howPage" :{
+			"howBgURI" : "../img/how_page/joseph/bg.png",
+			
+			"howTextDiv": {
+				"howText": "The railroad came to Ballinrobe, Co. Mayo in 1892, enabling Joseph and his sister Fanny to travel by rail to Queenstown (today known as Cobh), a port in Co. Cork from which a majority of Irish immigrants left for America. The Walshes then boarded the American Line Steamship, The British Princess, and set out for America on May 17th, 1894.<br>They travelled in steerage class, which was generally a dark, noisy, smelly, stuffy deck of large bunk dormitories. Privacy and access to the open deck was in short supply. The introduction of 2nd class tickets offered improved food, ventilation, and more space but from 1880 to 1897, 2nd class made up just 5% of passengers. The pair arrived in Philadelphia on May 29, 1894 where they once again boarded a train, this time bound for New York City. ",
+				"textClass": "howText3"
+			},
+			"howTransportButtons" : [
+				{
+					"transportButtonWrapperID" : "how_transport_button_wrapper_ID1_joseph",
+					"transportButtonWrapperClass" : "how_transport_button_wrapper",
+					"transportButtonID" : "how_transport_button_ID1_joseph", 
+					"transportButtonClass" : "how_transport_button"
+				},
+				{
+					"transportButtonWrapperID" : "how_transport_button_wrapper_ID2_joseph",
+					"transportButtonWrapperClass" : "how_transport_button_wrapper",
+					"transportButtonID" : "how_transport_button_ID2_joseph", 
+					"transportButtonClass" : "how_transport_button"
+				},
+				{
+					"transportButtonWrapperID" : "how_transport_button_wrapper_ID3_joseph",
+					"transportButtonWrapperClass" : "how_transport_button_wrapper",
+					"transportButtonID" : "how_transport_button_ID3_joseph", 
+					"transportButtonClass" : "how_transport_button"
+				},
+				{
+					"transportButtonWrapperID" : "how_transport_button_wrapper_ID4_joseph",
+					"transportButtonWrapperClass" : "how_transport_button_wrapper",
+					"transportButtonID" : "how_transport_button_ID4_joseph", 
+					"transportButtonClass" : "how_transport_button"
+				}
+			],
+			"howTransportButtonImages": [
+				{
+					"imgURI": "../img/how_page/joseph/transport_images/how_joseph_button_image_1.png",
+                    "imgID" : "how_transport_button_image_ID1_joseph",
+					"imgClass": "how_transport_button_images cursor",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/how_page/joseph/transport_images/how_joseph_button_image_2.png",
+                    "imgID" : "how_transport_button_image_ID2_joseph",
+					"imgClass": "how_transport_button_images cursor",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/how_page/joseph/transport_images/how_joseph_button_image_3.png",  
+                    "imgID" : "how_transport_button_image_ID3_joseph",
+					"imgClass": "how_transport_button_images cursor",
+					"imgAlt" : "",
+					"imgTitle": ""
+				},
+				{
+					"imgURI": "../img/how_page/joseph/transport_images/how_joseph_button_image_4.png",
+                    "imgID" : "how_transport_button_image_ID4_joseph",
+					"imgClass": "how_transport_button_images cursor",
+					"imgAlt" : "",
+					"imgTitle": ""
+					
+				}
+			],
+			"howAudioDiv": {
+				"audioButtonText" : "&#9658; CLICK TO PLAY",
+				"audioButtonID" : "how_audio_Text_Button_3_1",
+				"audioID" : "audioID_3_1",
+				"audioButtonClass" : "audioTextButtonClass",
+				"audioSourceOgg" : "../audio/how_audio/joseph/joseph_audio_ogg.ogg",
+				"audioSourceMp3": "../audio/how_audio/joseph/joseph_audio_mp3.mp3"
+			},
+			
+			"howAccordionDiv": [
+                {
+                    "accordionTitle" : "Passengers",
+					"accordionTitleClass" : "accordion_title_class",
+					"accordionContentDivClass": "accordionContentDiv cursor openAcc",
+					"imgURI": "../img/how_page/joseph/info_bar/passengers.png",
+                    "imgTitle": "",
+                    "imgClass": "",
+					"imgAlt" : ""
+                },
+                {
+					"accordionTitle" : "Cost",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+                    "imgURI": "../img/how_page/joseph/info_bar/cost.png",
+                    "imgTitle": "",
+                    "imgClass": "",
+					"imgAlt" : ""
+                },
+                {
+					"accordionTitle" : "Distance",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+                    "imgURI": "../img/how_page/joseph/info_bar/distance.png",
+                    "imgTitle": "",
+                    "imgClass": "",
+					"imgAlt" : ""
+                },
+				{
+					"accordionTitle" : "Duration",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+                    "imgURI": "../img/how_page/joseph/info_bar/duration.png",
+                    "imgTitle":"",
+                    "imgClass": "",
+					"imgAlt" : ""
+                },
+                {
+					"accordionTitle" : "Length",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+                    "imgURI": "../img/how_page/joseph/info_bar/length.png",
+                    "imgTitle": "",
+                    "imgClass": "",
+					"imgAlt" : ""
+                },
+				{
+					"accordionTitle" : "Weight",
+					"accordionTitleClass" : "accordion_title_class cursor",
+					"accordionContentDivClass": "accordionContentDiv",
+                    "imgURI": "../img/how_page/joseph/info_bar/weight.png",
+                    "imgTitle": "",
+                    "imgClass": "",
+					"imgAlt" : ""
+                }
+            ]
+		},
+		
+		"wherePage" : {
+			"whereBgURI" : "../img/where_page/joseph/bg.png",
+			"mapData" : "../js/vendor/jvectormap/maps/jquery-jvectormap-uk-mill-en.js",
+			"whereInfoDiv" : {
+				"imgLocale" : "Splash",
+				"imgURI": "../img/where_page/joseph/infoDiv/infoDivImgSplash.png",
+				"imgTitle": "",
+				"imgClass": "",
+				"imgAlt" : "",
+				"imgID" : "imgInfo"
+			},
+			"whereInfoDivInfoPoints" :[
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "The only president to serve two non-consecutive terms, and is therefore counted twice in the numbering of the presidents.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointSplash_joseph_1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "Annie Moore from Co. Cork was the first passenger processed. Over 4 million Irish men & women came before her, and over 12 million would follow over the next 62 years.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointNY1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "By 1890, in Boston the Irish were a majority.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointMA1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "Fergy Malone, a professional baseball player and catcher for Athletic of Philadelphia, was the first major leaguer born in Ireland, alongside Andy Leonard.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointPA1"
+				},
+				{
+					"imgURI": "../img/general/info_point.png",
+					"imgTitle": "O&#8217;Neill is widely credited with preserving Irish traditional tunes passed down orally for generations&#45; with the help of fellow Irish policemen, he compiled O&#8217;Neill&#8217;s Music of Ireland &#40;1903&#41;.",
+					"imgClass": "tooltip whereInfoPoints",
+					"imgAlt" : "",
+					"imgID" : "infoPointIL1"
+				}
+			]			
+		},
+		
+		"whyPage":{
+			"whyTitle" : {
+				"imgURI": "../img/why_page/joseph/why_title.png",
+				"imgID" : "whyTitle",
+				"imgClass": "",
+				"imgAlt" : "",
+				"imgTitle": ""
+			},					
+			"whyMinorBgURI" : "../img/why_page/minor_reasons_panel.png",
+			"whyMainImgDiv" : [
+				{
+					"imgURI": "../img/why_page/joseph/main_reasons_joseph/reason1.png",
+					"infoText" : "In the consolidation of farms after the famine<br>and the shift to pasturage, the practice of passing<br>farms on to a single heir to preserve farms<br>economic viability became widely accepted.<br>Therefore, only one son inherited the family farm<br>and only one daughter received a dowry so she<br>could marry the heir of a different farm.<br><br>The other children of the family were then left to<br>seek their fortunes elsewhere, however their<br>options were few; they could stay at home and<br>most likely never marry, become perpetual<br>labourers and bachelors or old maids, or they<br>could migrate. Therefore generally large families<br>were associated with high rates of emigration in<br>which the prospect of leaving home was<br>preferable to low wages and underemployment."
+				},
+				{
+					"imgURI": "../img/why_page/joseph/main_reasons_joseph/reason2.png",
+					"infoText" : "By now, &quot;famine&quot; immigrants had established<br>themselves in America forming religious, political<br>and social networks; not to be ignored was the<br>influence of letters and money they sent home<br>for their relations to join them. The Irish in<br>America wrote home regularly, including not<br>only cheques and money orders in their<br>correspondence, but also prepaid tickets which<br>were posted to their relatives in Ireland with<br>instructions as to which ship to catch and what<br>to bring with them.<br><br>Irish immigrants in the United States sent an<br>estimated $260 million home to Ireland, 40% of<br>which was for prepaid tickets for relatives and friends."
+				},
+				{
+					"imgURI": "../img/why_page/joseph/main_reasons_joseph/reason3.png",
+					"infoText" : "By the end of the 19th century, the expansion of<br>the rail network and the transition from sail to<br>steam were fundamental reasons that emigration<br>persisted throughout Ireland.<br><br>The expansion of the railroads brought a train<br>station within 30 miles of most people living in<br>Ireland in 1894, and the rise of steamships made<br>during the course of the American Civil War<br>(1861-65) resulted in shorter, safer crossings,<br>cutting travel time from seven to two weeks.<br>Steamships could also travel outside of the<br>normally restricted &#34;emigrant season&#34; between<br>March and October.<br><br>The cost of a passage also fell in the early years<br>up to the 1870s and, relative to Irish wages,<br>declined by more than half between 1850-1913." 
+				}		
+			],
+			"whyMinorImgDiv" : [
+				{
+					"imgURI": "../img/why_page/joseph/minor_reasons_joseph/minor_reasons_joseph_0.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgID" : ""
+				},
+				{
+					"imgURI": "../img/why_page/joseph/minor_reasons_joseph/minor_reasons_joseph_1.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgID" : ""
+				},
+				{
+					"imgURI": "../img/why_page/joseph/minor_reasons_joseph/minor_reasons_joseph_2.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgID" : ""
+				},
+				{
+					"imgURI":"../img/why_page/joseph/minor_reasons_joseph/minor_reasons_joseph_3.png",
+					"imgTitle": "",
+					"imgClass": "",
+					"imgAlt" : "",
+					"imgID" : ""
+				}
+			],
+			"whyButtonDiv" : [
+				{
+					"imgURI": "../img/why_page/minor_reasons_arrow/backbutton.png",
+					"imgTitle": "",
+					"imgClass": "hover cursor",
+					"imgAlt" : "",
+					"imgID" : "",
+					"divID" : "whyMinorBackButton"
+				},
+				{
+					"imgURI": "../img/why_page/minor_reasons_arrow/nextbutton.png",
+					"imgTitle": "",
+					"imgClass": "hover cursor",
+					"imgAlt" : "",
+					"imgID" : "",
+					"divID" : "whyMinorNextButton"
+				}
+			]
+		}
+		
+	}
+}

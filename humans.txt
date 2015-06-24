@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <name> Colin Gough <role> Developer
+	<name> Irene Walsh <role> Designer
+	<name> Roxanne Mauck <role> Project Lead & Researcher
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3,
+    jQuery, AJAX,
+	JSON
